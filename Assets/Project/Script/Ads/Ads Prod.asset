@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2b28a36ef84e04da6fa14bc5df8a6d, type: 3}
+  m_Name: Ads Prod
+  m_EditorClassIdentifier: Assembly-CSharp::AdConfig
+  bannerId: ca-app-pub-1779486678797596/3924325372
+  interstitialId: ca-app-pub-1779486678797596/1876746535
+  rewardedInterstitialId: ca-app-pub-1779486678797596/1491779321
+  rewardedId: ca-app-pub-1779486678797596/7969557769
+  nativeAdvancedId: ca-app-pub-1779486678797596/9691657372
+  appOpenId: ca-app-pub-1779486678797596/6656476097
+  testBannerId: ca-app-pub-3940256099942544/6300978111
+  testInterstitialId: ca-app-pub-3940256099942544/1033173712
+  testRewardedInterstitialId: ca-app-pub-3940256099942544/5354046379
+  testRewardedId: ca-app-pub-3940256099942544/5224354917
+  testNativeAdvancedId: ca-app-pub-3940256099942544/2247696110
+  testAppOpenId: ca-app-pub-3940256099942544/9257395921
+  enableGdprConsent: 1
+  requestConsentOnStartup: 1
+  loadBannerOnStart: 1
+  autoShowBanner: 1
+  bannerRetryInitialDelay: 30
+  bannerRetryMaxDelay: 300
+  interstitialEveryNEvents: 2
+  interstitialCooldownSeconds: 60
+  interstitialRetryDelaySeconds: 10
+  preloadRewarded: 1
+  rewardedRetryDelaySeconds: 5
+  preloadRewardedInterstitial: 1
+  rewardedInterstitialRetryDelaySeconds: 5
+  loadNativeOnStart: 1
+  nativeRetryDelaySeconds: 10
+  loadAppOpenOnStart: 1
+  appOpenRetryDelaySeconds: 10
+  appOpenMinIntervalSeconds: 30
+  useTestAds: 0
