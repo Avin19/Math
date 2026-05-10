@@ -42,4 +42,4 @@ MonoBehaviour:
   loadAppOpenOnStart: 1
   appOpenRetryDelaySeconds: 10
   appOpenMinIntervalSeconds: 30
-  useTestAds: 0
+  useTestAds: 1

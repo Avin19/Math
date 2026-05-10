@@ -18,8 +18,14 @@ MonoBehaviour:
   m_PlatformId: b9b35072a6f44c2e863f17467ea3dc13
   m_PlatformBuildProfile:
     rid: 6310683499231707366
-  m_OverrideGlobalSceneList: 0
-  m_Scenes: []
+  m_OverrideGlobalSceneList: 1
+  m_Scenes:
+  - m_enabled: 1
+    m_path: Assets/TempleOfRunes/Scenes/BootStrap.unity
+    m_guid: 59a7793538dd5164c85330db635f58dd
+  - m_enabled: 1
+    m_path: Assets/Project/Scene/MainMenu.unity
+    m_guid: 314cebfbfc4b0ac4587947abdcb9a468
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
