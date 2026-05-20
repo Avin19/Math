@@ -21,7 +21,7 @@ MonoBehaviour:
   m_OverrideGlobalSceneList: 1
   m_Scenes:
   - m_enabled: 1
-    m_path: Assets/TempleOfRunes/Scenes/BootStrap.unity
+    m_path: Assets/Project/Scene/BootStrap.unity
     m_guid: 59a7793538dd5164c85330db635f58dd
   - m_enabled: 1
     m_path: Assets/Project/Scene/MainMenu.unity
@@ -55,7 +55,7 @@ MonoBehaviour:
         m_ExportAsGoogleAndroidProject: 0
         m_DebugSymbolLevel: 1
         m_DebugSymbolFormat: 5
-        m_CurrentDeploymentTargetId: __builtin__target_default
+        m_CurrentDeploymentTargetId: J9AAGF0470623M9
         m_BuildType: 2
         m_LinkTimeOptimization: 0
         m_BuildAppBundle: 0

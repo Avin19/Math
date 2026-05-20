@@ -26,7 +26,7 @@ MonoBehaviour:
   testAppOpenId: ca-app-pub-3940256099942544/9257395921
   enableGdprConsent: 1
   requestConsentOnStartup: 1
-  loadBannerOnStart: 1
+  loadBannerOnStart: 0
   autoShowBanner: 1
   bannerRetryInitialDelay: 30
   bannerRetryMaxDelay: 300
@@ -42,4 +42,4 @@ MonoBehaviour:
   loadAppOpenOnStart: 1
   appOpenRetryDelaySeconds: 10
   appOpenMinIntervalSeconds: 30
-  useTestAds: 1
+  useTestAds: 0
