@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75451e77e6f84f14e984564d36c96d2c, type: 3}
   m_Name: LevelListData
   m_EditorClassIdentifier: Assembly-CSharp::LevelListData
-  levelDataSOs: []
+  levelDataSOs:
+  - {fileID: 11400000, guid: d10827c5f7b6c4248ade0521b893483d, type: 2}
+  - {fileID: 11400000, guid: 567a1ee33ffef7043b461b4258f68a29, type: 2}

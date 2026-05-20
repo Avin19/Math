@@ -1,16 +1,20 @@
+using System;
+using System.Runtime.Serialization;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private Button playbtn;
+    [SerializeField] private LevelDataManager levelDataManager;
+
+    void OnEnable()
     {
-        
+        playbtn?.onClick.AddListener(() => StartGame(PlayerDataManager.Instance.data.CurrentLevel));
     }
 
-    // Update is called once per frame
-    void Update()
+    private void StartGame(int level)
     {
-        
+
     }
 }
