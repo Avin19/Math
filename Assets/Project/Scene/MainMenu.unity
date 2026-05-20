@@ -6686,6 +6686,7 @@ GameObject:
   - component: {fileID: 1063350455}
   - component: {fileID: 1063350457}
   - component: {fileID: 1063350456}
+  - component: {fileID: 1063350458}
   m_Layer: 5
   m_Name: Game
   m_TagString: Untagged
@@ -6754,6 +6755,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1063350454}
   m_CullTransparentMesh: 1
+--- !u!114 &1063350458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1063350454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1991f3a6201a0b446b7e0e317e7a6e62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Game
+  questionText: {fileID: 2136194814}
+  answerText: {fileID: 71614372}
+  leveldata: {fileID: 0}
+  enterBtn: {fileID: 783042882}
+  numberBtns:
+  - {fileID: 482041057}
+  - {fileID: 280020513}
+  - {fileID: 74016069}
+  - {fileID: 1547426146}
+  - {fileID: 261890083}
+  - {fileID: 2087968754}
+  - {fileID: 644306533}
+  - {fileID: 1525556575}
+  - {fileID: 1895750346}
+  - {fileID: 1653797958}
 --- !u!1 &1065496566
 GameObject:
   m_ObjectHideFlags: 0
@@ -6771,7 +6799,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1065496567
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10232,7 +10260,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1861443246
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11668,8 +11696,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9219e264121d3a40aca3b368f99bd5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  playbtn: {fileID: 0}
-  levelDataManager: {fileID: 0}
+  playbtn: {fileID: 675024472}
+  gamePanel: {fileID: 1063350455}
+  levelListData: {fileID: 11400000, guid: 72ebe778868d7b94499825888e51b4df, type: 2}
 --- !u!4 &2014559498
 Transform:
   m_ObjectHideFlags: 0
@@ -11700,6 +11729,8 @@ MonoBehaviour:
   levelListData: {fileID: 11400000, guid: 72ebe778868d7b94499825888e51b4df, type: 2}
   levelButtonpf: {fileID: 5672297544452754090, guid: c07263e96be099341afcdd76b1ca31c5, type: 3}
   levelHolder: {fileID: 2011345085}
+  gamePanel: {fileID: 1063350455}
+  levelPanel: {fileID: 1065496567}
 --- !u!1 &2075360789
 GameObject:
   m_ObjectHideFlags: 0
