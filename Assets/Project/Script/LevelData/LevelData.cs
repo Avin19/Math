@@ -1,14 +1,22 @@
-
 using System;
-
-[Serializable]
-public class LevelData
+using UnityEngine;
+[CreateAssetMenu(fileName = "LevelData")]
+public class LevelData : ScriptableObject
 {
     public int starEarned;
     public bool unlocked;
     public int Level;
     public string Question;
-    public string Answer;
+    public int Answer;
     public string Category;
-    public string Difficulty;
+    public Diffculty difficulty;
 }
+
+public enum Diffculty
+{
+    Easy,
+    Medium,
+    Hard
+}
+
+

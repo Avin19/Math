@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 /// <summary>
 /// Serializable player profile, economy, level progress, audio/haptics, and daily rewards.
@@ -7,12 +8,12 @@ using System;
 [Serializable]
 public class PlayerData
 {
-    /// <summary>Bump when you change fields so <c>PlayerDataManager</c> can migrate old JSON.</summary>
+
     public int SaveVersion = CurrentSaveVersion;
 
     public const int CurrentSaveVersion = 1;
 
-    // --- Profile ---
+
     public string PlayerName = "";
     public string PlayerID = "";
 
@@ -26,6 +27,7 @@ public class PlayerData
     public int HighestUnlockedLevel = 1;
     public int LevelStarsTotal;
 
+    public List<PlayerLevelData> playerLevelData;
     // --- Audio & haptics (0–100 for UI sliders; map to 0–1 for mixers as needed) ---
     public bool SoundEnabled = true;
     public bool MusicEnabled = true;
@@ -42,7 +44,7 @@ public class PlayerData
     public long TotalPlayTimeSeconds;
     public string LastSaveUtc = "";
 
-    /// <summary>Clamps economy, volumes, levels, and streaks to sensible ranges.</summary>
+
     public void Normalize()
     {
         if (SaveVersion < 1)
@@ -82,6 +84,7 @@ public class PlayerData
             CurrentLevel = 1,
             HighestUnlockedLevel = 1,
             LevelStarsTotal = 0,
+            playerLevelData = new List<PlayerLevelData>(),
             SoundEnabled = true,
             MusicEnabled = true,
             MusicVolume = 100f,
@@ -97,5 +100,10 @@ public class PlayerData
         return d;
     }
 }
-
+[Serializable]
+public class PlayerLevelData
+{
+    public int level;
+    public int startEarned;
+}
 
