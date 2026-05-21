@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using System;
+using UnityEngine.Rendering;
 
 public class ButtonController : MonoBehaviour
 {
@@ -14,7 +15,8 @@ public class ButtonController : MonoBehaviour
 
 
 
-    private LevelDataSO levelDataSO;
+
+    [SerializeField] private LevelDataSO levelDataSO;
     void OnEnable()
     {
         GetComponent<Button>()?.onClick.AddListener(LoadGamePanel);
@@ -24,7 +26,9 @@ public class ButtonController : MonoBehaviour
     {
         gamePanel.gameObject.SetActive(true);
         levelPanel.gameObject.SetActive(false);
+        gamePanel.GetComponent<Game>().SetLevelData(levelDataSO);
     }
+
 
     void Start()
     {
@@ -35,7 +39,6 @@ public class ButtonController : MonoBehaviour
         unlocked.gameObject.SetActive(!levelDataSO.unlocked);
         levelNumber.text = levelDataSO.Level.ToString();
         starEarned = levelDataSO.starEarned;
-        gamePanel.GetComponent<Game>().SetLevelData(levelDataSO);
         StarCalculation();
     }
     public void SetLevelDataSO(LevelDataSO _levelDataSO, Transform _gamePanel, Transform _levelPanel)
@@ -47,7 +50,7 @@ public class ButtonController : MonoBehaviour
     }
     private void StarCalculation()
     {
-        for (int i = 0; i < starEarned - 1; i++)
+        for (int i = 0; i < starEarned; i++)
         {
             starTransfrom[i].gameObject.SetActive(true);
         }

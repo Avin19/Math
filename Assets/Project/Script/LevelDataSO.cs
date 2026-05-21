@@ -1,0 +1,14 @@
+using System;
+using UnityEngine;
+[CreateAssetMenu(fileName = "LevelData")]
+public class LevelDataSO : ScriptableObject
+{
+    public int starEarned;
+    public bool unlocked;
+    public int Level;
+    public string Question;
+    public string Answer;
+    public int timelimit;
+    public PuzzleType Category;
+    public Diffculty difficulty;
+}

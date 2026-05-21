@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9205154f04b6f5d4bb4001a6742dacfe, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
-  starEarned: 0
+  starEarned: 1
   unlocked: 1
   Level: 1
   Question: 2X + 8 = 32 \nX = ?
   Answer: 12
+  timelimit: 600
   Category: 0
   difficulty: 0

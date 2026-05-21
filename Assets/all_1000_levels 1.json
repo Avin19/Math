@@ -1,0 +1,7002 @@
+[
+  {
+    "Level": "1",
+    "Question": "10X + 21 = 231\nFind X",
+    "Answer": "21",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "2",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "3",
+    "Question": "32X + 46 = 1518\nFind X",
+    "Answer": "46",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "4",
+    "Question": "(86 + 57) × 5 = ?",
+    "Answer": "715",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "5",
+    "Question": "19X + 7 = 140\nFind X",
+    "Answer": "7",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "6",
+    "Question": "Find the next number:\n2, 6, 18, 54, 162, ?",
+    "Answer": "486",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "7",
+    "Question": "Find the next number:\n10, 40, 160, 640, 2560, ?",
+    "Answer": "10240",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "8",
+    "Question": "14X + 13 = 195\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "9",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "10",
+    "Question": "25X + 30 = 780\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "11",
+    "Question": "What is the area of a square with side 5?",
+    "Answer": "25",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "12",
+    "Question": "(21 + 77) × 3 = ?",
+    "Answer": "294",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "13",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "14",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "15",
+    "Question": "10X + 9 = 99\nFind X",
+    "Answer": "9",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "16",
+    "Question": "What is the area of a square with side 16?",
+    "Answer": "256",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "17",
+    "Question": "If A = 4, B = 8, C = 16, then D = ?",
+    "Answer": "32",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "18",
+    "Question": "Find the next number:\n4, 20, 100, 500, 2500, ?",
+    "Answer": "12500",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "19",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "20",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "21",
+    "Question": "If A = 20, B = 40, C = 80, then D = ?",
+    "Answer": "160",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "22",
+    "Question": "42X + 40 = 1720\nFind X",
+    "Answer": "40",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "23",
+    "Question": "31X + 29 = 928\nFind X",
+    "Answer": "29",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "24",
+    "Question": "Find the next number:\n7, 14, 28, 56, 112, ?",
+    "Answer": "224",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "25",
+    "Question": "A basket has 10 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "26",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "27",
+    "Question": "A basket has 10 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "28",
+    "Question": "Find the next number:\n1, 5, 25, 125, 625, ?",
+    "Answer": "3125",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "29",
+    "Question": "Find the next number:\n1, 4, 16, 64, 256, ?",
+    "Answer": "1024",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "30",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "31",
+    "Question": "27X + 46 = 1288\nFind X",
+    "Answer": "46",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "32",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "33",
+    "Question": "Find the next number:\n8, 40, 200, 1000, 5000, ?",
+    "Answer": "25000",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "34",
+    "Question": "38X + 13 = 507\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "35",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "36",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "37",
+    "Question": "(66 + 98) × 7 = ?",
+    "Answer": "1148",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "38",
+    "Question": "What is the area of a square with side 16?",
+    "Answer": "256",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "39",
+    "Question": "(87 + 52) × 7 = ?",
+    "Answer": "973",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "40",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "41",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "42",
+    "Question": "29X + 17 = 510\nFind X",
+    "Answer": "17",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "43",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "44",
+    "Question": "(63 + 47) × 4 = ?",
+    "Answer": "440",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "45",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "46",
+    "Question": "(16 + 25) × 3 = ?",
+    "Answer": "123",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "47",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "48",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "49",
+    "Question": "(88 + 53) × 5 = ?",
+    "Answer": "705",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "50",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "51",
+    "Question": "32X + 7 = 231\nFind X",
+    "Answer": "7",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "52",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "53",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "54",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "55",
+    "Question": "(99 + 73) × 4 = ?",
+    "Answer": "688",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "56",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "57",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "58",
+    "Question": "(20 + 30) × 4 = ?",
+    "Answer": "200",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "59",
+    "Question": "(67 + 80) × 5 = ?",
+    "Answer": "735",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "60",
+    "Question": "If A = 14, B = 28, C = 56, then D = ?",
+    "Answer": "112",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "61",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "62",
+    "Question": "26X + 6 = 162\nFind X",
+    "Answer": "6",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "63",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "64",
+    "Question": "(55 + 65) × 7 = ?",
+    "Answer": "840",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "65",
+    "Question": "(26 + 22) × 8 = ?",
+    "Answer": "384",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "66",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "67",
+    "Question": "Find the next number:\n8, 16, 32, 64, 128, ?",
+    "Answer": "256",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "68",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "69",
+    "Question": "35X + 29 = 1044\nFind X",
+    "Answer": "29",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "70",
+    "Question": "If A = 17, B = 34, C = 68, then D = ?",
+    "Answer": "136",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "71",
+    "Question": "(51 + 66) × 6 = ?",
+    "Answer": "702",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "72",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "73",
+    "Question": "9X + 13 = 130\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "74",
+    "Question": "What is the area of a square with side 4?",
+    "Answer": "16",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "75",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "76",
+    "Question": "38X + 11 = 429\nFind X",
+    "Answer": "11",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "77",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "78",
+    "Question": "(35 + 33) × 4 = ?",
+    "Answer": "272",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "79",
+    "Question": "35X + 23 = 828\nFind X",
+    "Answer": "23",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "80",
+    "Question": "Find the next number:\n10, 20, 40, 80, 160, ?",
+    "Answer": "320",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "81",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "82",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "83",
+    "Question": "If A = 10, B = 20, C = 40, then D = ?",
+    "Answer": "80",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "84",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "85",
+    "Question": "(42 + 37) × 4 = ?",
+    "Answer": "316",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "86",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "87",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "88",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "89",
+    "Question": "Find the next number:\n4, 20, 100, 500, 2500, ?",
+    "Answer": "12500",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "90",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "91",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "92",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "93",
+    "Question": "Find the next number:\n7, 28, 112, 448, 1792, ?",
+    "Answer": "7168",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "94",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "95",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "96",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "97",
+    "Question": "If A = 9, B = 18, C = 36, then D = ?",
+    "Answer": "72",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "98",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "99",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "100",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "101",
+    "Question": "(70 + 31) × 9 = ?",
+    "Answer": "909",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "102",
+    "Question": "If A = 14, B = 28, C = 56, then D = ?",
+    "Answer": "112",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "103",
+    "Question": "Find the next number:\n3, 6, 12, 24, 48, ?",
+    "Answer": "96",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "104",
+    "Question": "19X + 11 = 220\nFind X",
+    "Answer": "11",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "105",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "106",
+    "Question": "Find the next number:\n3, 15, 75, 375, 1875, ?",
+    "Answer": "9375",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "107",
+    "Question": "(78 + 24) × 2 = ?",
+    "Answer": "204",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "108",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "109",
+    "Question": "46X + 30 = 1410\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "110",
+    "Question": "41X + 17 = 714\nFind X",
+    "Answer": "17",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "111",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "112",
+    "Question": "(17 + 86) × 8 = ?",
+    "Answer": "824",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "113",
+    "Question": "Find the next number:\n7, 35, 175, 875, 4375, ?",
+    "Answer": "21875",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "114",
+    "Question": "28X + 10 = 290\nFind X",
+    "Answer": "10",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "115",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "116",
+    "Question": "23X + 30 = 720\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "117",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "118",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "119",
+    "Question": "Find the next number:\n8, 16, 32, 64, 128, ?",
+    "Answer": "256",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "120",
+    "Question": "If A = 9, B = 18, C = 36, then D = ?",
+    "Answer": "72",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "121",
+    "Question": "6X + 5 = 35\nFind X",
+    "Answer": "5",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "122",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "123",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "124",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "125",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "126",
+    "Question": "45X + 44 = 2024\nFind X",
+    "Answer": "44",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "127",
+    "Question": "47X + 38 = 1824\nFind X",
+    "Answer": "38",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "128",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "129",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "130",
+    "Question": "Find the next number:\n1, 3, 9, 27, 81, ?",
+    "Answer": "243",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "131",
+    "Question": "Find the next number:\n7, 14, 28, 56, 112, ?",
+    "Answer": "224",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "132",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "133",
+    "Question": "Find the next number:\n5, 10, 20, 40, 80, ?",
+    "Answer": "160",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "134",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "135",
+    "Question": "Find the next number:\n3, 12, 48, 192, 768, ?",
+    "Answer": "3072",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "136",
+    "Question": "(91 + 96) × 7 = ?",
+    "Answer": "1309",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "137",
+    "Question": "Find the next number:\n7, 14, 28, 56, 112, ?",
+    "Answer": "224",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "138",
+    "Question": "38X + 35 = 1365\nFind X",
+    "Answer": "35",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "139",
+    "Question": "(38 + 22) × 4 = ?",
+    "Answer": "240",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "140",
+    "Question": "(19 + 40) × 4 = ?",
+    "Answer": "236",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "141",
+    "Question": "43X + 50 = 2200\nFind X",
+    "Answer": "50",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "142",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "143",
+    "Question": "(92 + 47) × 7 = ?",
+    "Answer": "973",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "144",
+    "Question": "Find the next number:\n9, 18, 36, 72, 144, ?",
+    "Answer": "288",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "145",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "146",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "147",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "148",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "149",
+    "Question": "30X + 27 = 837\nFind X",
+    "Answer": "27",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "150",
+    "Question": "Find the next number:\n8, 16, 32, 64, 128, ?",
+    "Answer": "256",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "151",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "152",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "153",
+    "Question": "What is the area of a square with side 10?",
+    "Answer": "100",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "154",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "155",
+    "Question": "33X + 14 = 476\nFind X",
+    "Answer": "14",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "156",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "157",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "158",
+    "Question": "17X + 28 = 504\nFind X",
+    "Answer": "28",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "159",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "160",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "161",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "162",
+    "Question": "A basket has 16 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "163",
+    "Question": "13X + 5 = 70\nFind X",
+    "Answer": "5",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "164",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "165",
+    "Question": "24X + 10 = 250\nFind X",
+    "Answer": "10",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "166",
+    "Question": "(14 + 25) × 3 = ?",
+    "Answer": "117",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "167",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "168",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "169",
+    "Question": "(42 + 58) × 3 = ?",
+    "Answer": "300",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "170",
+    "Question": "(40 + 16) × 7 = ?",
+    "Answer": "392",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "171",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "172",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "173",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "174",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "175",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "176",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "177",
+    "Question": "A basket has 16 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "178",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "179",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "180",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "181",
+    "Question": "Find the next number:\n8, 24, 72, 216, 648, ?",
+    "Answer": "1944",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "182",
+    "Question": "Find the next number:\n8, 16, 32, 64, 128, ?",
+    "Answer": "256",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "183",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "184",
+    "Question": "Find the next number:\n7, 14, 28, 56, 112, ?",
+    "Answer": "224",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "185",
+    "Question": "16X + 14 = 238\nFind X",
+    "Answer": "14",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "186",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "187",
+    "Question": "32X + 13 = 429\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "188",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "189",
+    "Question": "If A = 4, B = 8, C = 16, then D = ?",
+    "Answer": "32",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "190",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "191",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "192",
+    "Question": "(57 + 33) × 4 = ?",
+    "Answer": "360",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "193",
+    "Question": "If A = 10, B = 20, C = 40, then D = ?",
+    "Answer": "80",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "194",
+    "Question": "6X + 24 = 168\nFind X",
+    "Answer": "24",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "195",
+    "Question": "(93 + 93) × 5 = ?",
+    "Answer": "930",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "196",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "197",
+    "Question": "9X + 15 = 150\nFind X",
+    "Answer": "15",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "198",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "199",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "200",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "201",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "202",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "203",
+    "Question": "What is the area of a square with side 10?",
+    "Answer": "100",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "204",
+    "Question": "17X + 46 = 828\nFind X",
+    "Answer": "46",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "205",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "206",
+    "Question": "48X + 19 = 931\nFind X",
+    "Answer": "19",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "207",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "208",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "209",
+    "Question": "(31 + 66) × 6 = ?",
+    "Answer": "582",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "210",
+    "Question": "What is the area of a square with side 16?",
+    "Answer": "256",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "211",
+    "Question": "26X + 41 = 1107\nFind X",
+    "Answer": "41",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "212",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "213",
+    "Question": "(85 + 63) × 5 = ?",
+    "Answer": "740",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "214",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "215",
+    "Question": "46X + 40 = 1880\nFind X",
+    "Answer": "40",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "216",
+    "Question": "42X + 37 = 1591\nFind X",
+    "Answer": "37",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "217",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "218",
+    "Question": "22X + 24 = 552\nFind X",
+    "Answer": "24",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "219",
+    "Question": "What is the area of a square with side 6?",
+    "Answer": "36",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "220",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "221",
+    "Question": "37X + 38 = 1444\nFind X",
+    "Answer": "38",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "222",
+    "Question": "17X + 2 = 36\nFind X",
+    "Answer": "2",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "223",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "224",
+    "Question": "What is the area of a square with side 6?",
+    "Answer": "36",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "225",
+    "Question": "3X + 49 = 196\nFind X",
+    "Answer": "49",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "226",
+    "Question": "(46 + 20) × 5 = ?",
+    "Answer": "330",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "227",
+    "Question": "What is the area of a square with side 10?",
+    "Answer": "100",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "228",
+    "Question": "(25 + 21) × 4 = ?",
+    "Answer": "184",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "229",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "230",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "231",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "232",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "233",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "234",
+    "Question": "(92 + 20) × 2 = ?",
+    "Answer": "224",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "235",
+    "Question": "(40 + 47) × 3 = ?",
+    "Answer": "261",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "236",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "237",
+    "Question": "What is the area of a square with side 4?",
+    "Answer": "16",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "238",
+    "Question": "40X + 33 = 1353\nFind X",
+    "Answer": "33",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "239",
+    "Question": "Find the next number:\n4, 16, 64, 256, 1024, ?",
+    "Answer": "4096",
+    "Category": "Sequence",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "240",
+    "Question": "29X + 4 = 120\nFind X",
+    "Answer": "4",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "241",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "242",
+    "Question": "(20 + 69) × 5 = ?",
+    "Answer": "445",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "243",
+    "Question": "42X + 25 = 1075\nFind X",
+    "Answer": "25",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "244",
+    "Question": "47X + 31 = 1488\nFind X",
+    "Answer": "31",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "245",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "246",
+    "Question": "31X + 9 = 288\nFind X",
+    "Answer": "9",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "247",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "248",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "249",
+    "Question": "(76 + 95) × 6 = ?",
+    "Answer": "1026",
+    "Category": "Arithmetic",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "250",
+    "Question": "9X + 11 = 110\nFind X",
+    "Answer": "11",
+    "Category": "Equation",
+    "Difficulty": "Easy"
+  },
+  {
+    "Level": "251",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "252",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "253",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "254",
+    "Question": "If A = 20, B = 40, C = 80, then D = ?",
+    "Answer": "160",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "255",
+    "Question": "16X + 46 = 782\nFind X",
+    "Answer": "46",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "256",
+    "Question": "21X + 6 = 132\nFind X",
+    "Answer": "6",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "257",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "258",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "259",
+    "Question": "Find the next number:\n2, 10, 50, 250, 1250, ?",
+    "Answer": "6250",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "260",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "261",
+    "Question": "If A = 9, B = 18, C = 36, then D = ?",
+    "Answer": "72",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "262",
+    "Question": "(59 + 65) × 6 = ?",
+    "Answer": "744",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "263",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "264",
+    "Question": "Find the next number:\n4, 20, 100, 500, 2500, ?",
+    "Answer": "12500",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "265",
+    "Question": "What is the area of a square with side 19?",
+    "Answer": "361",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "266",
+    "Question": "14X + 11 = 165\nFind X",
+    "Answer": "11",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "267",
+    "Question": "5X + 19 = 114\nFind X",
+    "Answer": "19",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "268",
+    "Question": "(82 + 64) × 8 = ?",
+    "Answer": "1168",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "269",
+    "Question": "26X + 11 = 297\nFind X",
+    "Answer": "11",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "270",
+    "Question": "(45 + 69) × 8 = ?",
+    "Answer": "912",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "271",
+    "Question": "Find the next number:\n1, 4, 16, 64, 256, ?",
+    "Answer": "1024",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "272",
+    "Question": "(54 + 76) × 5 = ?",
+    "Answer": "650",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "273",
+    "Question": "14X + 10 = 150\nFind X",
+    "Answer": "10",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "274",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "275",
+    "Question": "(57 + 18) × 6 = ?",
+    "Answer": "450",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "276",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "277",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "278",
+    "Question": "(55 + 13) × 2 = ?",
+    "Answer": "136",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "279",
+    "Question": "(44 + 45) × 6 = ?",
+    "Answer": "534",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "280",
+    "Question": "(37 + 83) × 4 = ?",
+    "Answer": "480",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "281",
+    "Question": "Find the next number:\n10, 30, 90, 270, 810, ?",
+    "Answer": "2430",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "282",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "283",
+    "Question": "If A = 12, B = 24, C = 48, then D = ?",
+    "Answer": "96",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "284",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "285",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "286",
+    "Question": "(62 + 32) × 2 = ?",
+    "Answer": "188",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "287",
+    "Question": "If A = 4, B = 8, C = 16, then D = ?",
+    "Answer": "32",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "288",
+    "Question": "(90 + 54) × 8 = ?",
+    "Answer": "1152",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "289",
+    "Question": "If A = 19, B = 38, C = 76, then D = ?",
+    "Answer": "152",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "290",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "291",
+    "Question": "Find the next number:\n6, 12, 24, 48, 96, ?",
+    "Answer": "192",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "292",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "293",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "294",
+    "Question": "34X + 15 = 525\nFind X",
+    "Answer": "15",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "295",
+    "Question": "If A = 6, B = 12, C = 24, then D = ?",
+    "Answer": "48",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "296",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "297",
+    "Question": "Find the next number:\n7, 21, 63, 189, 567, ?",
+    "Answer": "1701",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "298",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "299",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "300",
+    "Question": "If A = 14, B = 28, C = 56, then D = ?",
+    "Answer": "112",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "301",
+    "Question": "Find the next number:\n1, 5, 25, 125, 625, ?",
+    "Answer": "3125",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "302",
+    "Question": "If A = 19, B = 38, C = 76, then D = ?",
+    "Answer": "152",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "303",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "304",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "305",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "306",
+    "Question": "31X + 43 = 1376\nFind X",
+    "Answer": "43",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "307",
+    "Question": "(31 + 25) × 2 = ?",
+    "Answer": "112",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "308",
+    "Question": "If A = 9, B = 18, C = 36, then D = ?",
+    "Answer": "72",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "309",
+    "Question": "49X + 33 = 1650\nFind X",
+    "Answer": "33",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "310",
+    "Question": "(23 + 46) × 2 = ?",
+    "Answer": "138",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "311",
+    "Question": "19X + 32 = 640\nFind X",
+    "Answer": "32",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "312",
+    "Question": "12X + 31 = 403\nFind X",
+    "Answer": "31",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "313",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "314",
+    "Question": "Find the next number:\n3, 6, 12, 24, 48, ?",
+    "Answer": "96",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "315",
+    "Question": "What is the area of a square with side 19?",
+    "Answer": "361",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "316",
+    "Question": "(89 + 99) × 3 = ?",
+    "Answer": "564",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "317",
+    "Question": "(78 + 21) × 8 = ?",
+    "Answer": "792",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "318",
+    "Question": "Find the next number:\n3, 15, 75, 375, 1875, ?",
+    "Answer": "9375",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "319",
+    "Question": "Find the next number:\n3, 12, 48, 192, 768, ?",
+    "Answer": "3072",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "320",
+    "Question": "32X + 21 = 693\nFind X",
+    "Answer": "21",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "321",
+    "Question": "(97 + 72) × 5 = ?",
+    "Answer": "845",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "322",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "323",
+    "Question": "11X + 17 = 204\nFind X",
+    "Answer": "17",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "324",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "325",
+    "Question": "Find the next number:\n8, 24, 72, 216, 648, ?",
+    "Answer": "1944",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "326",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "327",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "328",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "329",
+    "Question": "(42 + 22) × 5 = ?",
+    "Answer": "320",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "330",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "331",
+    "Question": "40X + 21 = 861\nFind X",
+    "Answer": "21",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "332",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "333",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "334",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "335",
+    "Question": "(71 + 89) × 9 = ?",
+    "Answer": "1440",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "336",
+    "Question": "21X + 22 = 484\nFind X",
+    "Answer": "22",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "337",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "338",
+    "Question": "(34 + 19) × 2 = ?",
+    "Answer": "106",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "339",
+    "Question": "What is the area of a square with side 4?",
+    "Answer": "16",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "340",
+    "Question": "(19 + 49) × 2 = ?",
+    "Answer": "136",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "341",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "342",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "343",
+    "Question": "(83 + 50) × 7 = ?",
+    "Answer": "931",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "344",
+    "Question": "Find the next number:\n5, 10, 20, 40, 80, ?",
+    "Answer": "160",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "345",
+    "Question": "If A = 17, B = 34, C = 68, then D = ?",
+    "Answer": "136",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "346",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "347",
+    "Question": "(61 + 42) × 5 = ?",
+    "Answer": "515",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "348",
+    "Question": "Find the next number:\n4, 20, 100, 500, 2500, ?",
+    "Answer": "12500",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "349",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "350",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "351",
+    "Question": "A basket has 10 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "352",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "353",
+    "Question": "Find the next number:\n4, 20, 100, 500, 2500, ?",
+    "Answer": "12500",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "354",
+    "Question": "Find the next number:\n3, 9, 27, 81, 243, ?",
+    "Answer": "729",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "355",
+    "Question": "5X + 22 = 132\nFind X",
+    "Answer": "22",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "356",
+    "Question": "10X + 31 = 341\nFind X",
+    "Answer": "31",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "357",
+    "Question": "34X + 6 = 210\nFind X",
+    "Answer": "6",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "358",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "359",
+    "Question": "Find the next number:\n6, 12, 24, 48, 96, ?",
+    "Answer": "192",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "360",
+    "Question": "(76 + 42) × 5 = ?",
+    "Answer": "590",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "361",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "362",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "363",
+    "Question": "Find the next number:\n1, 4, 16, 64, 256, ?",
+    "Answer": "1024",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "364",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "365",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "366",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "367",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "368",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "369",
+    "Question": "What is the area of a square with side 5?",
+    "Answer": "25",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "370",
+    "Question": "Find the next number:\n10, 50, 250, 1250, 6250, ?",
+    "Answer": "31250",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "371",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "372",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "373",
+    "Question": "(40 + 77) × 4 = ?",
+    "Answer": "468",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "374",
+    "Question": "If A = 4, B = 8, C = 16, then D = ?",
+    "Answer": "32",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "375",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "376",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "377",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "378",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "379",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "380",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "381",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "382",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "383",
+    "Question": "Find the next number:\n5, 10, 20, 40, 80, ?",
+    "Answer": "160",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "384",
+    "Question": "(40 + 60) × 5 = ?",
+    "Answer": "500",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "385",
+    "Question": "8X + 44 = 396\nFind X",
+    "Answer": "44",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "386",
+    "Question": "(88 + 19) × 9 = ?",
+    "Answer": "963",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "387",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "388",
+    "Question": "(21 + 77) × 7 = ?",
+    "Answer": "686",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "389",
+    "Question": "23X + 42 = 1008\nFind X",
+    "Answer": "42",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "390",
+    "Question": "Find the next number:\n7, 14, 28, 56, 112, ?",
+    "Answer": "224",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "391",
+    "Question": "Find the next number:\n4, 16, 64, 256, 1024, ?",
+    "Answer": "4096",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "392",
+    "Question": "29X + 26 = 780\nFind X",
+    "Answer": "26",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "393",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "394",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "395",
+    "Question": "A basket has 16 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "396",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "397",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "398",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "399",
+    "Question": "21X + 13 = 286\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "400",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "401",
+    "Question": "(24 + 21) × 3 = ?",
+    "Answer": "135",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "402",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "403",
+    "Question": "Find the next number:\n1, 5, 25, 125, 625, ?",
+    "Answer": "3125",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "404",
+    "Question": "What is the area of a square with side 10?",
+    "Answer": "100",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "405",
+    "Question": "(51 + 18) × 2 = ?",
+    "Answer": "138",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "406",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "407",
+    "Question": "(31 + 86) × 7 = ?",
+    "Answer": "819",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "408",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "409",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "410",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "411",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "412",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "413",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "414",
+    "Question": "40X + 6 = 246\nFind X",
+    "Answer": "6",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "415",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "416",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "417",
+    "Question": "(81 + 59) × 7 = ?",
+    "Answer": "980",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "418",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "419",
+    "Question": "(40 + 14) × 4 = ?",
+    "Answer": "216",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "420",
+    "Question": "(47 + 67) × 2 = ?",
+    "Answer": "228",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "421",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "422",
+    "Question": "41X + 34 = 1428\nFind X",
+    "Answer": "34",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "423",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "424",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "425",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "426",
+    "Question": "15X + 27 = 432\nFind X",
+    "Answer": "27",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "427",
+    "Question": "(57 + 68) × 3 = ?",
+    "Answer": "375",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "428",
+    "Question": "(98 + 23) × 9 = ?",
+    "Answer": "1089",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "429",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "430",
+    "Question": "(79 + 61) × 2 = ?",
+    "Answer": "280",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "431",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "432",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "433",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "434",
+    "Question": "Find the next number:\n3, 9, 27, 81, 243, ?",
+    "Answer": "729",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "435",
+    "Question": "17X + 28 = 504\nFind X",
+    "Answer": "28",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "436",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "437",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "438",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "439",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "440",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "441",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "442",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "443",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "444",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "445",
+    "Question": "Find the next number:\n6, 12, 24, 48, 96, ?",
+    "Answer": "192",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "446",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "447",
+    "Question": "If A = 6, B = 12, C = 24, then D = ?",
+    "Answer": "48",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "448",
+    "Question": "(94 + 15) × 7 = ?",
+    "Answer": "763",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "449",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "450",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "451",
+    "Question": "33X + 9 = 306\nFind X",
+    "Answer": "9",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "452",
+    "Question": "Find the next number:\n6, 12, 24, 48, 96, ?",
+    "Answer": "192",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "453",
+    "Question": "(75 + 32) × 7 = ?",
+    "Answer": "749",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "454",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "455",
+    "Question": "26X + 20 = 540\nFind X",
+    "Answer": "20",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "456",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "457",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "458",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "459",
+    "Question": "(74 + 54) × 6 = ?",
+    "Answer": "768",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "460",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "461",
+    "Question": "(14 + 66) × 5 = ?",
+    "Answer": "400",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "462",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "463",
+    "Question": "Find the next number:\n6, 18, 54, 162, 486, ?",
+    "Answer": "1458",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "464",
+    "Question": "43X + 19 = 836\nFind X",
+    "Answer": "19",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "465",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "466",
+    "Question": "50X + 32 = 1632\nFind X",
+    "Answer": "32",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "467",
+    "Question": "9X + 5 = 50\nFind X",
+    "Answer": "5",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "468",
+    "Question": "If A = 14, B = 28, C = 56, then D = ?",
+    "Answer": "112",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "469",
+    "Question": "(64 + 28) × 3 = ?",
+    "Answer": "276",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "470",
+    "Question": "31X + 8 = 256\nFind X",
+    "Answer": "8",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "471",
+    "Question": "If A = 4, B = 8, C = 16, then D = ?",
+    "Answer": "32",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "472",
+    "Question": "(56 + 62) × 2 = ?",
+    "Answer": "236",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "473",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "474",
+    "Question": "(27 + 28) × 3 = ?",
+    "Answer": "165",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "475",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "476",
+    "Question": "(99 + 75) × 2 = ?",
+    "Answer": "348",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "477",
+    "Question": "If A = 10, B = 20, C = 40, then D = ?",
+    "Answer": "80",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "478",
+    "Question": "(35 + 63) × 4 = ?",
+    "Answer": "392",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "479",
+    "Question": "Find the next number:\n5, 20, 80, 320, 1280, ?",
+    "Answer": "5120",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "480",
+    "Question": "Find the next number:\n9, 18, 36, 72, 144, ?",
+    "Answer": "288",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "481",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "482",
+    "Question": "(71 + 82) × 8 = ?",
+    "Answer": "1224",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "483",
+    "Question": "(59 + 51) × 8 = ?",
+    "Answer": "880",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "484",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "485",
+    "Question": "6X + 32 = 224\nFind X",
+    "Answer": "32",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "486",
+    "Question": "Find the next number:\n8, 32, 128, 512, 2048, ?",
+    "Answer": "8192",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "487",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "488",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "489",
+    "Question": "(59 + 82) × 5 = ?",
+    "Answer": "705",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "490",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "491",
+    "Question": "11X + 49 = 588\nFind X",
+    "Answer": "49",
+    "Category": "Equation",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "492",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "493",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "494",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "495",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "496",
+    "Question": "Find the next number:\n2, 4, 8, 16, 32, ?",
+    "Answer": "64",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "497",
+    "Question": "Find the next number:\n8, 40, 200, 1000, 5000, ?",
+    "Answer": "25000",
+    "Category": "Sequence",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "498",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "499",
+    "Question": "(40 + 54) × 6 = ?",
+    "Answer": "564",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "500",
+    "Question": "(35 + 65) × 9 = ?",
+    "Answer": "900",
+    "Category": "Arithmetic",
+    "Difficulty": "Medium"
+  },
+  {
+    "Level": "501",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "502",
+    "Question": "6X + 43 = 301\nFind X",
+    "Answer": "43",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "503",
+    "Question": "(88 + 53) × 4 = ?",
+    "Answer": "564",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "504",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "505",
+    "Question": "If A = 20, B = 40, C = 80, then D = ?",
+    "Answer": "160",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "506",
+    "Question": "Find the next number:\n4, 16, 64, 256, 1024, ?",
+    "Answer": "4096",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "507",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "508",
+    "Question": "(13 + 24) × 3 = ?",
+    "Answer": "111",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "509",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "510",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "511",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "512",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "513",
+    "Question": "38X + 31 = 1209\nFind X",
+    "Answer": "31",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "514",
+    "Question": "A basket has 12 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "515",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "516",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "517",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "518",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "519",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "520",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "521",
+    "Question": "16X + 42 = 714\nFind X",
+    "Answer": "42",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "522",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "523",
+    "Question": "41X + 50 = 2100\nFind X",
+    "Answer": "50",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "524",
+    "Question": "36X + 28 = 1036\nFind X",
+    "Answer": "28",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "525",
+    "Question": "(47 + 12) × 7 = ?",
+    "Answer": "413",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "526",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "527",
+    "Question": "11X + 9 = 108\nFind X",
+    "Answer": "9",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "528",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "529",
+    "Question": "Find the next number:\n1, 4, 16, 64, 256, ?",
+    "Answer": "1024",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "530",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "531",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "532",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "533",
+    "Question": "22X + 2 = 46\nFind X",
+    "Answer": "2",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "534",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "535",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "536",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "537",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "538",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "539",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "540",
+    "Question": "Find the next number:\n3, 12, 48, 192, 768, ?",
+    "Answer": "3072",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "541",
+    "Question": "What is the area of a square with side 16?",
+    "Answer": "256",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "542",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "543",
+    "Question": "Find the next number:\n8, 40, 200, 1000, 5000, ?",
+    "Answer": "25000",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "544",
+    "Question": "42X + 32 = 1376\nFind X",
+    "Answer": "32",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "545",
+    "Question": "15X + 16 = 256\nFind X",
+    "Answer": "16",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "546",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "547",
+    "Question": "(71 + 19) × 2 = ?",
+    "Answer": "180",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "548",
+    "Question": "32X + 42 = 1386\nFind X",
+    "Answer": "42",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "549",
+    "Question": "Find the next number:\n9, 36, 144, 576, 2304, ?",
+    "Answer": "9216",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "550",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "551",
+    "Question": "Find the next number:\n5, 20, 80, 320, 1280, ?",
+    "Answer": "5120",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "552",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "553",
+    "Question": "33X + 8 = 272\nFind X",
+    "Answer": "8",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "554",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "555",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "556",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "557",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "558",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "559",
+    "Question": "21X + 44 = 968\nFind X",
+    "Answer": "44",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "560",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "561",
+    "Question": "Find the next number:\n2, 4, 8, 16, 32, ?",
+    "Answer": "64",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "562",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "563",
+    "Question": "42X + 36 = 1548\nFind X",
+    "Answer": "36",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "564",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "565",
+    "Question": "Find the next number:\n5, 25, 125, 625, 3125, ?",
+    "Answer": "15625",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "566",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "567",
+    "Question": "(94 + 57) × 4 = ?",
+    "Answer": "604",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "568",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "569",
+    "Question": "(67 + 83) × 4 = ?",
+    "Answer": "600",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "570",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "571",
+    "Question": "Find the next number:\n9, 36, 144, 576, 2304, ?",
+    "Answer": "9216",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "572",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "573",
+    "Question": "Find the next number:\n4, 16, 64, 256, 1024, ?",
+    "Answer": "4096",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "574",
+    "Question": "(38 + 69) × 9 = ?",
+    "Answer": "963",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "575",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "576",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "577",
+    "Question": "(49 + 67) × 2 = ?",
+    "Answer": "232",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "578",
+    "Question": "48X + 10 = 490\nFind X",
+    "Answer": "10",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "579",
+    "Question": "(83 + 12) × 7 = ?",
+    "Answer": "665",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "580",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "581",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "582",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "583",
+    "Question": "(73 + 77) × 5 = ?",
+    "Answer": "750",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "584",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "585",
+    "Question": "If A = 7, B = 14, C = 28, then D = ?",
+    "Answer": "56",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "586",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "587",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "588",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "589",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "590",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "591",
+    "Question": "If A = 12, B = 24, C = 48, then D = ?",
+    "Answer": "96",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "592",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "593",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "594",
+    "Question": "(43 + 39) × 7 = ?",
+    "Answer": "574",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "595",
+    "Question": "Find the next number:\n3, 15, 75, 375, 1875, ?",
+    "Answer": "9375",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "596",
+    "Question": "A basket has 10 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "597",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "598",
+    "Question": "(26 + 73) × 8 = ?",
+    "Answer": "792",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "599",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "600",
+    "Question": "Find the next number:\n5, 25, 125, 625, 3125, ?",
+    "Answer": "15625",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "601",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "602",
+    "Question": "What is the area of a square with side 16?",
+    "Answer": "256",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "603",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "604",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "605",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "606",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "607",
+    "Question": "29X + 12 = 360\nFind X",
+    "Answer": "12",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "608",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "609",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "610",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "611",
+    "Question": "6X + 12 = 84\nFind X",
+    "Answer": "12",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "612",
+    "Question": "30X + 22 = 682\nFind X",
+    "Answer": "22",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "613",
+    "Question": "Find the next number:\n1, 5, 25, 125, 625, ?",
+    "Answer": "3125",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "614",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "615",
+    "Question": "18X + 43 = 817\nFind X",
+    "Answer": "43",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "616",
+    "Question": "(95 + 24) × 5 = ?",
+    "Answer": "595",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "617",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "618",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "619",
+    "Question": "(50 + 53) × 8 = ?",
+    "Answer": "824",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "620",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "621",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "622",
+    "Question": "(31 + 33) × 2 = ?",
+    "Answer": "128",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "623",
+    "Question": "(25 + 68) × 7 = ?",
+    "Answer": "651",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "624",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "625",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "626",
+    "Question": "(89 + 57) × 5 = ?",
+    "Answer": "730",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "627",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "628",
+    "Question": "(32 + 29) × 2 = ?",
+    "Answer": "122",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "629",
+    "Question": "Find the next number:\n7, 35, 175, 875, 4375, ?",
+    "Answer": "21875",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "630",
+    "Question": "48X + 34 = 1666\nFind X",
+    "Answer": "34",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "631",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "632",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "633",
+    "Question": "15X + 13 = 208\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "634",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "635",
+    "Question": "Find the next number:\n1, 5, 25, 125, 625, ?",
+    "Answer": "3125",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "636",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "637",
+    "Question": "(83 + 93) × 8 = ?",
+    "Answer": "1408",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "638",
+    "Question": "21X + 47 = 1034\nFind X",
+    "Answer": "47",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "639",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "640",
+    "Question": "(58 + 89) × 2 = ?",
+    "Answer": "294",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "641",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "642",
+    "Question": "(48 + 49) × 6 = ?",
+    "Answer": "582",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "643",
+    "Question": "Find the next number:\n1, 3, 9, 27, 81, ?",
+    "Answer": "243",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "644",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "645",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "646",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "647",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "648",
+    "Question": "Find the next number:\n7, 21, 63, 189, 567, ?",
+    "Answer": "1701",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "649",
+    "Question": "(13 + 62) × 5 = ?",
+    "Answer": "375",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "650",
+    "Question": "Find the next number:\n1, 2, 4, 8, 16, ?",
+    "Answer": "32",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "651",
+    "Question": "Find the next number:\n5, 20, 80, 320, 1280, ?",
+    "Answer": "5120",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "652",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "653",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "654",
+    "Question": "4X + 17 = 85\nFind X",
+    "Answer": "17",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "655",
+    "Question": "2X + 28 = 84\nFind X",
+    "Answer": "28",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "656",
+    "Question": "5X + 44 = 264\nFind X",
+    "Answer": "44",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "657",
+    "Question": "11X + 3 = 36\nFind X",
+    "Answer": "3",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "658",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "659",
+    "Question": "Find the next number:\n2, 6, 18, 54, 162, ?",
+    "Answer": "486",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "660",
+    "Question": "Find the next number:\n1, 2, 4, 8, 16, ?",
+    "Answer": "32",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "661",
+    "Question": "10X + 27 = 297\nFind X",
+    "Answer": "27",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "662",
+    "Question": "(65 + 40) × 6 = ?",
+    "Answer": "630",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "663",
+    "Question": "(32 + 67) × 5 = ?",
+    "Answer": "495",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "664",
+    "Question": "37X + 2 = 76\nFind X",
+    "Answer": "2",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "665",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "666",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "667",
+    "Question": "Find the next number:\n5, 10, 20, 40, 80, ?",
+    "Answer": "160",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "668",
+    "Question": "Find the next number:\n4, 8, 16, 32, 64, ?",
+    "Answer": "128",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "669",
+    "Question": "26X + 3 = 81\nFind X",
+    "Answer": "3",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "670",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "671",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "672",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "673",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "674",
+    "Question": "35X + 3 = 108\nFind X",
+    "Answer": "3",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "675",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "676",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "677",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "678",
+    "Question": "(42 + 39) × 9 = ?",
+    "Answer": "729",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "679",
+    "Question": "(12 + 45) × 4 = ?",
+    "Answer": "228",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "680",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "681",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "682",
+    "Question": "Find the next number:\n5, 15, 45, 135, 405, ?",
+    "Answer": "1215",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "683",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "684",
+    "Question": "Find the next number:\n9, 27, 81, 243, 729, ?",
+    "Answer": "2187",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "685",
+    "Question": "If A = 17, B = 34, C = 68, then D = ?",
+    "Answer": "136",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "686",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "687",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "688",
+    "Question": "Find the next number:\n7, 28, 112, 448, 1792, ?",
+    "Answer": "7168",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "689",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "690",
+    "Question": "(54 + 84) × 4 = ?",
+    "Answer": "552",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "691",
+    "Question": "(93 + 87) × 4 = ?",
+    "Answer": "720",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "692",
+    "Question": "32X + 30 = 990\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "693",
+    "Question": "(77 + 43) × 4 = ?",
+    "Answer": "480",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "694",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "695",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "696",
+    "Question": "(94 + 58) × 7 = ?",
+    "Answer": "1064",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "697",
+    "Question": "Find the next number:\n6, 30, 150, 750, 3750, ?",
+    "Answer": "18750",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "698",
+    "Question": "A basket has 12 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "699",
+    "Question": "(90 + 22) × 8 = ?",
+    "Answer": "896",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "700",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "701",
+    "Question": "(11 + 22) × 3 = ?",
+    "Answer": "99",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "702",
+    "Question": "A basket has 16 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "703",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "704",
+    "Question": "A basket has 10 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "705",
+    "Question": "Find the next number:\n4, 8, 16, 32, 64, ?",
+    "Answer": "128",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "706",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "707",
+    "Question": "5X + 7 = 42\nFind X",
+    "Answer": "7",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "708",
+    "Question": "(23 + 72) × 3 = ?",
+    "Answer": "285",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "709",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "710",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "711",
+    "Question": "Find the next number:\n3, 6, 12, 24, 48, ?",
+    "Answer": "96",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "712",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "713",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "714",
+    "Question": "(61 + 17) × 8 = ?",
+    "Answer": "624",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "715",
+    "Question": "25X + 35 = 910\nFind X",
+    "Answer": "35",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "716",
+    "Question": "Find the next number:\n7, 28, 112, 448, 1792, ?",
+    "Answer": "7168",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "717",
+    "Question": "Find the next number:\n7, 21, 63, 189, 567, ?",
+    "Answer": "1701",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "718",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "719",
+    "Question": "15X + 31 = 496\nFind X",
+    "Answer": "31",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "720",
+    "Question": "Find the next number:\n6, 12, 24, 48, 96, ?",
+    "Answer": "192",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "721",
+    "Question": "A basket has 12 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "722",
+    "Question": "Find the next number:\n8, 24, 72, 216, 648, ?",
+    "Answer": "1944",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "723",
+    "Question": "42X + 26 = 1118\nFind X",
+    "Answer": "26",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "724",
+    "Question": "A basket has 10 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "725",
+    "Question": "(38 + 86) × 4 = ?",
+    "Answer": "496",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "726",
+    "Question": "41X + 3 = 126\nFind X",
+    "Answer": "3",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "727",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "728",
+    "Question": "What is the area of a square with side 19?",
+    "Answer": "361",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "729",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "730",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "731",
+    "Question": "What is the area of a square with side 4?",
+    "Answer": "16",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "732",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "733",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "734",
+    "Question": "What is the area of a square with side 6?",
+    "Answer": "36",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "735",
+    "Question": "What is the area of a square with side 19?",
+    "Answer": "361",
+    "Category": "Geometry",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "736",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "737",
+    "Question": "38X + 29 = 1131\nFind X",
+    "Answer": "29",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "738",
+    "Question": "Find the next number:\n10, 40, 160, 640, 2560, ?",
+    "Answer": "10240",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "739",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "740",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "741",
+    "Question": "(86 + 95) × 5 = ?",
+    "Answer": "905",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "742",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "743",
+    "Question": "19X + 9 = 180\nFind X",
+    "Answer": "9",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "744",
+    "Question": "(65 + 57) × 5 = ?",
+    "Answer": "610",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "745",
+    "Question": "Find the next number:\n4, 16, 64, 256, 1024, ?",
+    "Answer": "4096",
+    "Category": "Sequence",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "746",
+    "Question": "(77 + 60) × 2 = ?",
+    "Answer": "274",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "747",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "748",
+    "Question": "43X + 30 = 1320\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "749",
+    "Question": "(64 + 61) × 7 = ?",
+    "Answer": "875",
+    "Category": "Arithmetic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "750",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Hard"
+  },
+  {
+    "Level": "751",
+    "Question": "32X + 2 = 66\nFind X",
+    "Answer": "2",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "752",
+    "Question": "What is the area of a square with side 19?",
+    "Answer": "361",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "753",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "754",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "755",
+    "Question": "Find the next number:\n7, 35, 175, 875, 4375, ?",
+    "Answer": "21875",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "756",
+    "Question": "Find the next number:\n5, 20, 80, 320, 1280, ?",
+    "Answer": "5120",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "757",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "758",
+    "Question": "(98 + 21) × 8 = ?",
+    "Answer": "952",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "759",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "760",
+    "Question": "Find the next number:\n4, 12, 36, 108, 324, ?",
+    "Answer": "972",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "761",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "762",
+    "Question": "Find the next number:\n6, 30, 150, 750, 3750, ?",
+    "Answer": "18750",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "763",
+    "Question": "Find the next number:\n1, 3, 9, 27, 81, ?",
+    "Answer": "243",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "764",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "765",
+    "Question": "Find the next number:\n5, 25, 125, 625, 3125, ?",
+    "Answer": "15625",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "766",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "767",
+    "Question": "(15 + 18) × 2 = ?",
+    "Answer": "66",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "768",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "769",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "770",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "771",
+    "Question": "47X + 30 = 1440\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "772",
+    "Question": "What is the area of a square with side 19?",
+    "Answer": "361",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "773",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "774",
+    "Question": "If A = 17, B = 34, C = 68, then D = ?",
+    "Answer": "136",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "775",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "776",
+    "Question": "47X + 48 = 2304\nFind X",
+    "Answer": "48",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "777",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "778",
+    "Question": "Find the next number:\n1, 4, 16, 64, 256, ?",
+    "Answer": "1024",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "779",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "780",
+    "Question": "Find the next number:\n10, 50, 250, 1250, 6250, ?",
+    "Answer": "31250",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "781",
+    "Question": "15X + 30 = 480\nFind X",
+    "Answer": "30",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "782",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "783",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "784",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "785",
+    "Question": "Find the next number:\n7, 14, 28, 56, 112, ?",
+    "Answer": "224",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "786",
+    "Question": "Find the next number:\n2, 4, 8, 16, 32, ?",
+    "Answer": "64",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "787",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "788",
+    "Question": "If A = 9, B = 18, C = 36, then D = ?",
+    "Answer": "72",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "789",
+    "Question": "Find the next number:\n1, 2, 4, 8, 16, ?",
+    "Answer": "32",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "790",
+    "Question": "What is the area of a square with side 18?",
+    "Answer": "324",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "791",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "792",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "793",
+    "Question": "What is the area of a square with side 6?",
+    "Answer": "36",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "794",
+    "Question": "If A = 10, B = 20, C = 40, then D = ?",
+    "Answer": "80",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "795",
+    "Question": "(93 + 55) × 6 = ?",
+    "Answer": "888",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "796",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "797",
+    "Question": "(57 + 60) × 5 = ?",
+    "Answer": "585",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "798",
+    "Question": "Find the next number:\n6, 18, 54, 162, 486, ?",
+    "Answer": "1458",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "799",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "800",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "801",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "802",
+    "Question": "(90 + 18) × 4 = ?",
+    "Answer": "432",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "803",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "804",
+    "Question": "If A = 9, B = 18, C = 36, then D = ?",
+    "Answer": "72",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "805",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "806",
+    "Question": "Find the next number:\n5, 15, 45, 135, 405, ?",
+    "Answer": "1215",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "807",
+    "Question": "44X + 42 = 1890\nFind X",
+    "Answer": "42",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "808",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "809",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "810",
+    "Question": "(23 + 50) × 3 = ?",
+    "Answer": "219",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "811",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "812",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "813",
+    "Question": "(42 + 87) × 6 = ?",
+    "Answer": "774",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "814",
+    "Question": "Find the next number:\n8, 24, 72, 216, 648, ?",
+    "Answer": "1944",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "815",
+    "Question": "If A = 16, B = 32, C = 64, then D = ?",
+    "Answer": "128",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "816",
+    "Question": "29X + 3 = 90\nFind X",
+    "Answer": "3",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "817",
+    "Question": "Find the next number:\n9, 18, 36, 72, 144, ?",
+    "Answer": "288",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "818",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "819",
+    "Question": "A basket has 16 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "820",
+    "Question": "41X + 46 = 1932\nFind X",
+    "Answer": "46",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "821",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "822",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "823",
+    "Question": "32X + 12 = 396\nFind X",
+    "Answer": "12",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "824",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "825",
+    "Question": "Find the next number:\n10, 30, 90, 270, 810, ?",
+    "Answer": "2430",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "826",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "827",
+    "Question": "(13 + 42) × 4 = ?",
+    "Answer": "220",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "828",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "829",
+    "Question": "(84 + 53) × 9 = ?",
+    "Answer": "1233",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "830",
+    "Question": "Find the next number:\n2, 6, 18, 54, 162, ?",
+    "Answer": "486",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "831",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "832",
+    "Question": "49X + 4 = 200\nFind X",
+    "Answer": "4",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "833",
+    "Question": "A basket has 9 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "834",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "835",
+    "Question": "(26 + 45) × 8 = ?",
+    "Answer": "568",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "836",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "837",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "838",
+    "Question": "2X + 36 = 108\nFind X",
+    "Answer": "36",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "839",
+    "Question": "Find the next number:\n2, 4, 8, 16, 32, ?",
+    "Answer": "64",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "840",
+    "Question": "Find the next number:\n3, 6, 12, 24, 48, ?",
+    "Answer": "96",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "841",
+    "Question": "(85 + 68) × 4 = ?",
+    "Answer": "612",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "842",
+    "Question": "If A = 12, B = 24, C = 48, then D = ?",
+    "Answer": "96",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "843",
+    "Question": "Find the next number:\n8, 32, 128, 512, 2048, ?",
+    "Answer": "8192",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "844",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "845",
+    "Question": "30X + 23 = 713\nFind X",
+    "Answer": "23",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "846",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "847",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "848",
+    "Question": "Find the next number:\n4, 12, 36, 108, 324, ?",
+    "Answer": "972",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "849",
+    "Question": "If A = 12, B = 24, C = 48, then D = ?",
+    "Answer": "96",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "850",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "851",
+    "Question": "25X + 37 = 962\nFind X",
+    "Answer": "37",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "852",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "853",
+    "Question": "(50 + 87) × 9 = ?",
+    "Answer": "1233",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "854",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "855",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "856",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "857",
+    "Question": "If A = 6, B = 12, C = 24, then D = ?",
+    "Answer": "48",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "858",
+    "Question": "Find the next number:\n4, 20, 100, 500, 2500, ?",
+    "Answer": "12500",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "859",
+    "Question": "(23 + 44) × 7 = ?",
+    "Answer": "469",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "860",
+    "Question": "2X + 13 = 39\nFind X",
+    "Answer": "13",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "861",
+    "Question": "(88 + 11) × 3 = ?",
+    "Answer": "297",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "862",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "863",
+    "Question": "(55 + 96) × 9 = ?",
+    "Answer": "1359",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "864",
+    "Question": "Find the next number:\n1, 2, 4, 8, 16, ?",
+    "Answer": "32",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "865",
+    "Question": "What is the area of a square with side 11?",
+    "Answer": "121",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "866",
+    "Question": "Find the next number:\n5, 15, 45, 135, 405, ?",
+    "Answer": "1215",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "867",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "868",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "869",
+    "Question": "Find the next number:\n9, 36, 144, 576, 2304, ?",
+    "Answer": "9216",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "870",
+    "Question": "5X + 26 = 156\nFind X",
+    "Answer": "26",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "871",
+    "Question": "What is the area of a square with side 2?",
+    "Answer": "4",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "872",
+    "Question": "A basket has 16 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "873",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "874",
+    "Question": "10X + 33 = 363\nFind X",
+    "Answer": "33",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "875",
+    "Question": "39X + 49 = 1960\nFind X",
+    "Answer": "49",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "876",
+    "Question": "3X + 12 = 48\nFind X",
+    "Answer": "12",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "877",
+    "Question": "A basket has 19 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "878",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "879",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "880",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "881",
+    "Question": "If A = 17, B = 34, C = 68, then D = ?",
+    "Answer": "136",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "882",
+    "Question": "If A = 11, B = 22, C = 44, then D = ?",
+    "Answer": "88",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "883",
+    "Question": "Find the next number:\n6, 30, 150, 750, 3750, ?",
+    "Answer": "18750",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "884",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "885",
+    "Question": "Find the next number:\n6, 24, 96, 384, 1536, ?",
+    "Answer": "6144",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "886",
+    "Question": "What is the area of a square with side 7?",
+    "Answer": "49",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "887",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "888",
+    "Question": "What is the area of a square with side 8?",
+    "Answer": "64",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "889",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "890",
+    "Question": "27X + 18 = 504\nFind X",
+    "Answer": "18",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "891",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "892",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "893",
+    "Question": "Find the next number:\n7, 21, 63, 189, 567, ?",
+    "Answer": "1701",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "894",
+    "Question": "32X + 22 = 726\nFind X",
+    "Answer": "22",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "895",
+    "Question": "What is the area of a square with side 20?",
+    "Answer": "400",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "896",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "897",
+    "Question": "(92 + 79) × 4 = ?",
+    "Answer": "684",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "898",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "899",
+    "Question": "28X + 47 = 1363\nFind X",
+    "Answer": "47",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "900",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "901",
+    "Question": "3X + 38 = 152\nFind X",
+    "Answer": "38",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "902",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "903",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "904",
+    "Question": "If A = 5, B = 10, C = 20, then D = ?",
+    "Answer": "40",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "905",
+    "Question": "If A = 2, B = 4, C = 8, then D = ?",
+    "Answer": "16",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "906",
+    "Question": "If A = 18, B = 36, C = 72, then D = ?",
+    "Answer": "144",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "907",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "908",
+    "Question": "(95 + 85) × 3 = ?",
+    "Answer": "540",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "909",
+    "Question": "Find the next number:\n6, 30, 150, 750, 3750, ?",
+    "Answer": "18750",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "910",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "911",
+    "Question": "(71 + 32) × 3 = ?",
+    "Answer": "309",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "912",
+    "Question": "45X + 17 = 782\nFind X",
+    "Answer": "17",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "913",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "914",
+    "Question": "(76 + 47) × 8 = ?",
+    "Answer": "984",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "915",
+    "Question": "What is the area of a square with side 12?",
+    "Answer": "144",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "916",
+    "Question": "Find the next number:\n8, 24, 72, 216, 648, ?",
+    "Answer": "1944",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "917",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "918",
+    "Question": "Find the next number:\n3, 6, 12, 24, 48, ?",
+    "Answer": "96",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "919",
+    "Question": "What is the area of a square with side 13?",
+    "Answer": "169",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "920",
+    "Question": "What is the area of a square with side 4?",
+    "Answer": "16",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "921",
+    "Question": "(83 + 62) × 6 = ?",
+    "Answer": "870",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "922",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "923",
+    "Question": "50X + 41 = 2091\nFind X",
+    "Answer": "41",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "924",
+    "Question": "Find the next number:\n1, 4, 16, 64, 256, ?",
+    "Answer": "1024",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "925",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "926",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "927",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "928",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "929",
+    "Question": "If A = 20, B = 40, C = 80, then D = ?",
+    "Answer": "160",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "930",
+    "Question": "A basket has 15 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "931",
+    "Question": "Find the next number:\n6, 12, 24, 48, 96, ?",
+    "Answer": "192",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "932",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "933",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "934",
+    "Question": "A basket has 12 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "935",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "936",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "937",
+    "Question": "If A = 19, B = 38, C = 76, then D = ?",
+    "Answer": "152",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "938",
+    "Question": "What is the area of a square with side 2?",
+    "Answer": "4",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "939",
+    "Question": "19X + 32 = 640\nFind X",
+    "Answer": "32",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "940",
+    "Question": "Find the next number:\n7, 21, 63, 189, 567, ?",
+    "Answer": "1701",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "941",
+    "Question": "20X + 14 = 294\nFind X",
+    "Answer": "14",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "942",
+    "Question": "What is the area of a square with side 15?",
+    "Answer": "225",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "943",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "944",
+    "Question": "A basket has 17 apples. Half are removed. How many remain?",
+    "Answer": "8",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "945",
+    "Question": "If A = 15, B = 30, C = 60, then D = ?",
+    "Answer": "120",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "946",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "947",
+    "Question": "(34 + 65) × 8 = ?",
+    "Answer": "792",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "948",
+    "Question": "What is the area of a square with side 9?",
+    "Answer": "81",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "949",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "950",
+    "Question": "A basket has 7 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "951",
+    "Question": "(96 + 18) × 4 = ?",
+    "Answer": "456",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "952",
+    "Question": "If A = 4, B = 8, C = 16, then D = ?",
+    "Answer": "32",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "953",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "954",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "955",
+    "Question": "(42 + 44) × 5 = ?",
+    "Answer": "430",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "956",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "957",
+    "Question": "A basket has 14 apples. Half are removed. How many remain?",
+    "Answer": "7",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "958",
+    "Question": "If A = 13, B = 26, C = 52, then D = ?",
+    "Answer": "104",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "959",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "960",
+    "Question": "Find the next number:\n10, 40, 160, 640, 2560, ?",
+    "Answer": "10240",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "961",
+    "Question": "A basket has 6 apples. Half are removed. How many remain?",
+    "Answer": "3",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "962",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "963",
+    "Question": "A basket has 12 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "964",
+    "Question": "(28 + 97) × 6 = ?",
+    "Answer": "750",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "965",
+    "Question": "32X + 44 = 1452\nFind X",
+    "Answer": "44",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "966",
+    "Question": "Find the next number:\n10, 50, 250, 1250, 6250, ?",
+    "Answer": "31250",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "967",
+    "Question": "What is the area of a square with side 3?",
+    "Answer": "9",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "968",
+    "Question": "28X + 45 = 1305\nFind X",
+    "Answer": "45",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "969",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "970",
+    "Question": "A basket has 8 apples. Half are removed. How many remain?",
+    "Answer": "4",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "971",
+    "Question": "A basket has 20 apples. Half are removed. How many remain?",
+    "Answer": "10",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "972",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "973",
+    "Question": "A basket has 11 apples. Half are removed. How many remain?",
+    "Answer": "5",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "974",
+    "Question": "A basket has 5 apples. Half are removed. How many remain?",
+    "Answer": "2",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "975",
+    "Question": "What is the area of a square with side 14?",
+    "Answer": "196",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "976",
+    "Question": "(32 + 86) × 8 = ?",
+    "Answer": "944",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "977",
+    "Question": "A basket has 13 apples. Half are removed. How many remain?",
+    "Answer": "6",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "978",
+    "Question": "If A = 3, B = 6, C = 12, then D = ?",
+    "Answer": "24",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "979",
+    "Question": "Find the next number:\n2, 6, 18, 54, 162, ?",
+    "Answer": "486",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "980",
+    "Question": "(43 + 71) × 3 = ?",
+    "Answer": "342",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "981",
+    "Question": "28X + 7 = 203\nFind X",
+    "Answer": "7",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "982",
+    "Question": "Find the next number:\n2, 8, 32, 128, 512, ?",
+    "Answer": "2048",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "983",
+    "Question": "Find the next number:\n9, 45, 225, 1125, 5625, ?",
+    "Answer": "28125",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "984",
+    "Question": "29X + 40 = 1200\nFind X",
+    "Answer": "40",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "985",
+    "Question": "(65 + 32) × 5 = ?",
+    "Answer": "485",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "986",
+    "Question": "(74 + 49) × 3 = ?",
+    "Answer": "369",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "987",
+    "Question": "Find the next number:\n8, 24, 72, 216, 648, ?",
+    "Answer": "1944",
+    "Category": "Sequence",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "988",
+    "Question": "(85 + 48) × 3 = ?",
+    "Answer": "399",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "989",
+    "Question": "How many squares are in a 4x4 grid?",
+    "Answer": "30",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "990",
+    "Question": "What is the area of a square with side 17?",
+    "Answer": "289",
+    "Category": "Geometry",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "991",
+    "Question": "A basket has 18 apples. Half are removed. How many remain?",
+    "Answer": "9",
+    "Category": "Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "992",
+    "Question": "(74 + 68) × 5 = ?",
+    "Answer": "710",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "993",
+    "Question": "How many squares are in a 5x5 grid?",
+    "Answer": "55",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "994",
+    "Question": "17X + 44 = 792\nFind X",
+    "Answer": "44",
+    "Category": "Equation",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "995",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "996",
+    "Question": "How many squares are in a 2x2 grid?",
+    "Answer": "5",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "997",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "998",
+    "Question": "If A = 8, B = 16, C = 32, then D = ?",
+    "Answer": "64",
+    "Category": "Pattern",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "999",
+    "Question": "(85 + 19) × 8 = ?",
+    "Answer": "832",
+    "Category": "Arithmetic",
+    "Difficulty": "Expert"
+  },
+  {
+    "Level": "1000",
+    "Question": "How many squares are in a 3x3 grid?",
+    "Answer": "14",
+    "Category": "Grid Logic",
+    "Difficulty": "Expert"
+  }
+]

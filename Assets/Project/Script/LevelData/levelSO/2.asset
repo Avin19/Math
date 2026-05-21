@@ -17,5 +17,6 @@ MonoBehaviour:
   Level: 2
   Question: 10X + 21 = 231  \n Find X
   Answer: 21
+  timelimit: 500
   Category: 0
   difficulty: 0

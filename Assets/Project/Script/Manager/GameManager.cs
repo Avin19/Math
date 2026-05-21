@@ -9,13 +9,13 @@ public class GameManager : MonoBehaviour
 
     void OnEnable()
     {
-        playbtn?.onClick.AddListener(() => StartGame(PlayerDataManager.Instance.data.CurrentLevel));
+        playbtn?.onClick.AddListener(() => StartGame());
     }
 
-    private void StartGame(int level)
+    private void StartGame()
     {
         gamePanel.gameObject.SetActive(true);
-        gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[level]);
+        gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 1]);
 
     }
 }

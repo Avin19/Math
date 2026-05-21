@@ -424,8 +424,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -0.00021362305, y: 20.886787}
+  m_SizeDelta: {x: -0.0005, y: -156.3397}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &633170409
 MonoBehaviour:
@@ -1233,6 +1233,7 @@ MonoBehaviour:
     CurrentLevel: 1
     HighestUnlockedLevel: 1
     LevelStarsTotal: 0
+    playerLevelData: []
     SoundEnabled: 1
     MusicEnabled: 1
     MusicVolume: 100
