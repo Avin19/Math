@@ -1,4 +1,5 @@
 using System;
+using System.Runtime.Serialization;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -20,11 +21,12 @@ public class Game : MonoBehaviour
     private bool stoptimer = false;
     [SerializeField] private Transform winPanel;
     [SerializeField] private Transform lossPanel;
+    [SerializeField] private Button winCloseBtn, lossCloseBtn;
 
 
     public void SetLevelData(LevelDataSO _levelData)
     {
-        Debug.Log("Test");
+
         leveldata = _levelData;
         Setup();
     }
@@ -99,10 +101,12 @@ public class Game : MonoBehaviour
         {
             //Correct Answer
             PlayerDataManager.Instance.data.CurrentLevel++;
+            WinCurrentLevel();
+
         }
         else
         {
-            //Anwers 
+            LossCurrentLevel();
         }
 
         float remainingPercent = timer / leveldata.timelimit;
@@ -157,15 +161,15 @@ public class Game : MonoBehaviour
 
     private void OnTimeOver()
     {
-        throw new NotImplementedException();
+        LossCurrentLevel();
     }
     private void WinCurrentLevel()
     {
-
+        winPanel.gameObject.SetActive(true);
     }
     private void LossCurrentLevel()
     {
-
+        lossPanel.gameObject.SetActive(true);
     }
     private void MaxlevelReached()
     {
