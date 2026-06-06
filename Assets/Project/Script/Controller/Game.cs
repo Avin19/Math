@@ -16,12 +16,12 @@ public class Game : MonoBehaviour
     [SerializeField] private Button dotBtns;
     [SerializeField] private Button clearBtn;
     private float timer;
+    private float timepasssed;
     [SerializeField] private Slider slider;
     private string answer;
     private bool stoptimer = false;
     [SerializeField] private Transform winPanel;
-    [SerializeField] private Transform lossPanel;
-    [SerializeField] private Button winCloseBtn, lossCloseBtn;
+
 
 
     public void SetLevelData(LevelDataSO _levelData)
@@ -96,19 +96,6 @@ public class Game : MonoBehaviour
     }
     private void CheckAnswer()
     {
-        if (string.IsNullOrEmpty(answer)) return;
-        if (string.Equals(answer, leveldata.Answer))
-        {
-            //Correct Answer
-            PlayerDataManager.Instance.data.CurrentLevel++;
-            WinCurrentLevel();
-
-        }
-        else
-        {
-            LossCurrentLevel();
-        }
-
         float remainingPercent = timer / leveldata.timelimit;
 
         if (remainingPercent >= 0.66f)
@@ -127,6 +114,22 @@ public class Game : MonoBehaviour
         {
             leveldata.starEarned = 0;
         }
+        if (string.IsNullOrEmpty(answer)) return;
+        if (string.Equals(answer, leveldata.Answer))
+        {
+            //Correct Answer
+            PlayerDataManager.Instance.data.CurrentLevel++;
+            PlayerDataManager.Instance.data.Coins += 100;
+            WinCurrentLevel();
+
+        }
+        else
+        {
+            PlayerDataManager.Instance.data.Coins -= 100;
+            LossCurrentLevel();
+        }
+
+
     }
 
     private void Setup()
@@ -144,6 +147,8 @@ public class Game : MonoBehaviour
             return;
 
         timer -= Time.deltaTime;
+        timepasssed += Time.deltaTime;
+
 
         timer = Mathf.Clamp(timer, 0, leveldata.timelimit);
 
@@ -166,10 +171,14 @@ public class Game : MonoBehaviour
     private void WinCurrentLevel()
     {
         winPanel.gameObject.SetActive(true);
+        TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
+        winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), true);
     }
     private void LossCurrentLevel()
     {
-        lossPanel.gameObject.SetActive(true);
+        winPanel.gameObject.SetActive(true);
+        TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
+        winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), false);
     }
     private void MaxlevelReached()
     {
