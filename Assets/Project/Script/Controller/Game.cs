@@ -51,8 +51,16 @@ public class Game : MonoBehaviour
         dotBtns?.onClick.AddListener(() => DotButtonClick());
         clearBtn?.onClick.AddListener(() => ClearBtnClick());
 
+        ClearTHeINputBox();
 
 
+
+    }
+
+    private void ClearTHeINputBox()
+    {
+        answerText.text = "";
+        answer = "";
     }
 
     private void ClearBtnClick()

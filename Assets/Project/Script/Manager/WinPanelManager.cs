@@ -19,6 +19,8 @@ public class WinPanelManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI coinTxt, timerTxt, starTxt;
     [SerializeField] private Button homebtn, retrybtn, nextlevelBtn;
     [SerializeField] private Image banner;
+    [SerializeField] private Transform gamePanel;
+    [SerializeField] private LevelListData levelListData;
 
     public void Init(string _cointext, string _timertxt, string _starTxy, bool status)
     {
@@ -35,6 +37,10 @@ public class WinPanelManager : MonoBehaviour
             banner.sprite = lossBanner;
             coinTxt.text = "Reward \n -" + _cointext;
         }
+    }
+    void Start()
+    {
+        AdMobManager.Instance.ShowBanner();
     }
 
     void OnEnable()
@@ -53,16 +59,25 @@ public class WinPanelManager : MonoBehaviour
 
     private void NextlevelBtnClicked()
     {
-        throw new NotImplementedException();
+        AdMobManager.Instance.ShowNativeAdvanced();
+        gamePanel.gameObject.SetActive(true);
+        gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 1]);
+        gameObject.SetActive(false);
+
     }
 
     private void RetryButtonClicked()
     {
-        throw new NotImplementedException();
+        AdMobManager.Instance.TryShowInterstitial();
+        gamePanel.gameObject.SetActive(true);
+        gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 2]);
+        gameObject.SetActive(false);
     }
 
     private void HomeButtonCLicked()
     {
-        throw new NotImplementedException();
+
+
+        AdMobManager.Instance.ShowRewarded(() => UnityEngine.SceneManagement.SceneManager.LoadScene(1));
     }
 }
