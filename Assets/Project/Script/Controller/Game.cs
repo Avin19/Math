@@ -8,6 +8,8 @@ public class Game : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI questionText;
     [SerializeField] private TextMeshProUGUI answerText;
+    [SerializeField]
+    private TextMeshProUGUI timerTxt;
     [SerializeField] private LevelDataSO leveldata;
     [SerializeField] private TextMeshProUGUI leveldisplayText;
 
@@ -15,6 +17,7 @@ public class Game : MonoBehaviour
     [SerializeField] private Button[] numberBtns = new Button[10];
     [SerializeField] private Button dotBtns;
     [SerializeField] private Button clearBtn;
+    [SerializeField] private Button backBtn;
     private float timer;
     private float timepasssed;
     [SerializeField] private Slider slider;
@@ -50,11 +53,17 @@ public class Game : MonoBehaviour
         numberBtns[9]?.onClick.AddListener(() => AnswerButtonPressed(0));
         dotBtns?.onClick.AddListener(() => DotButtonClick());
         clearBtn?.onClick.AddListener(() => ClearBtnClick());
+        backBtn?.onClick.AddListener(() => BackToMainMenu());
 
         ClearTHeINputBox();
 
 
 
+    }
+
+    private void BackToMainMenu()
+    {
+        LossCurrentLevel();
     }
 
     private void ClearTHeINputBox()
@@ -123,6 +132,7 @@ public class Game : MonoBehaviour
             leveldata.starEarned = 0;
         }
         if (string.IsNullOrEmpty(answer)) return;
+        AdMobManager.Instance.TryShowInterstitial();
         if (string.Equals(answer, leveldata.Answer))
         {
             //Correct Answer
@@ -156,7 +166,7 @@ public class Game : MonoBehaviour
 
         timer -= Time.deltaTime;
         timepasssed += Time.deltaTime;
-
+        timerTxt.text = TimeSpan.FromSeconds(timepasssed).ToString(@"m\:ss");
 
         timer = Mathf.Clamp(timer, 0, leveldata.timelimit);
 

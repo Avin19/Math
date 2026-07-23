@@ -11,6 +11,7 @@ public class LevelDataManager : MonoBehaviour
 
 
 
+
     void Start()
     {
         foreach (LevelDataSO level in levelListData.levelDataSOs)
