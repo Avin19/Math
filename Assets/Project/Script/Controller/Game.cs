@@ -25,6 +25,7 @@ public class Game : MonoBehaviour
     private string answer;
     private bool stoptimer = false;
     [SerializeField] private Transform winPanel;
+    [SerializeField] private ParticleSystem particleSy;
 
     void Start()
     {
@@ -176,13 +177,13 @@ public class Game : MonoBehaviour
         // Normalized slider value (0 → 1)
         slider.value = timepasssed / leveldata.timelimit;
 
-        // if (timer <= 0)
-        // {
-        //     timer = 0;
-        //     stoptimer = true;
+        if (timer <= 0)
+        {
+            timer = 0;
+            stoptimer = true;
 
-        //     OnTimeOver();
-        // }
+            OnTimeOver();
+        }
     }
 
     private void OnTimeOver()
@@ -191,6 +192,8 @@ public class Game : MonoBehaviour
     }
     private void WinCurrentLevel()
     {
+        particleSy.gameObject.SetActive(true);
+        particleSy.Play();
 
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);

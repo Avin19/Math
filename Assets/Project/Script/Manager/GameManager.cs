@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour
     private void StartGame()
     {
         gamePanel.gameObject.SetActive(true);
-        gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 1]);
+        //gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 1]);
 
     }
 }
