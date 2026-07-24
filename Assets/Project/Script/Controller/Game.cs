@@ -174,7 +174,7 @@ public class Game : MonoBehaviour
         timer = Mathf.Clamp(timer, 0, leveldata.timelimit);
 
         // Normalized slider value (0 → 1)
-        slider.value = timer / leveldata.timelimit;
+        slider.value = timepasssed / leveldata.timelimit;
 
         // if (timer <= 0)
         // {

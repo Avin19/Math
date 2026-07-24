@@ -1,8 +1,6 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
-using System;
-using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 
 public class ButtonController : MonoBehaviour

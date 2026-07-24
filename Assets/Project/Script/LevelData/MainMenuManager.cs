@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -51,5 +50,9 @@ public class MainMenuManager : MonoBehaviour
         PlayerDataManager.Instance.data.selectedLevel = PlayerDataManager.Instance.data.CurrentLevel;
 
         SceneManager.LoadScene(2);
+    }
+    void Start()
+    {
+
     }
 }
