@@ -10,8 +10,7 @@ public class ButtonController : MonoBehaviour
     [SerializeField] private int starEarned;
     [SerializeField] private TextMeshProUGUI levelNumber;
     [SerializeField] private Transform[] starTransfrom;
-    private Transform gamePanel;
-    private Transform levelPanel;
+
 
 
 
@@ -19,15 +18,10 @@ public class ButtonController : MonoBehaviour
     [SerializeField] private LevelDataSO levelDataSO;
     void OnEnable()
     {
-        GetComponent<Button>()?.onClick.AddListener(LoadGamePanel);
+
     }
 
-    private void LoadGamePanel()
-    {
-        gamePanel.gameObject.SetActive(true);
-        levelPanel.gameObject.SetActive(false);
-        gamePanel.GetComponent<Game>().SetLevelData(levelDataSO);
-    }
+
 
 
     void Start()
@@ -41,11 +35,10 @@ public class ButtonController : MonoBehaviour
         starEarned = levelDataSO.starEarned;
         StarCalculation();
     }
-    public void SetLevelDataSO(LevelDataSO _levelDataSO, Transform _gamePanel, Transform _levelPanel)
+    public void SetLevelDataSO(LevelDataSO _levelDataSO)
     {
         levelDataSO = _levelDataSO;
-        gamePanel = _gamePanel;
-        levelPanel = _levelPanel;
+
         ButtonSetup();
     }
     private void StarCalculation()
