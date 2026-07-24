@@ -25,11 +25,10 @@ public class Game : MonoBehaviour
     private string answer;
     private bool stoptimer = false;
     [SerializeField] private Transform winPanel;
-    private PlayerDataManager playerData;
 
     void Start()
     {
-        leveldata = levelList.levelDataSOs[playerData.data.CurrentLevel];
+        leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
         SetLevelData(leveldata);
     }
 
@@ -63,11 +62,9 @@ public class Game : MonoBehaviour
 
         ClearTHeINputBox();
 
-
-
     }
 
-    private void BackToMainMenu()
+    public void BackToMainMenu()
     {
         SceneManager.LoadScene(1);
     }
@@ -179,13 +176,13 @@ public class Game : MonoBehaviour
         // Normalized slider value (0 → 1)
         slider.value = timer / leveldata.timelimit;
 
-        if (timer <= 0)
-        {
-            timer = 0;
-            stoptimer = true;
+        // if (timer <= 0)
+        // {
+        //     timer = 0;
+        //     stoptimer = true;
 
-            OnTimeOver();
-        }
+        //     OnTimeOver();
+        // }
     }
 
     private void OnTimeOver()
@@ -194,6 +191,7 @@ public class Game : MonoBehaviour
     }
     private void WinCurrentLevel()
     {
+
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), true);
@@ -204,8 +202,5 @@ public class Game : MonoBehaviour
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), false);
     }
-    private void MaxlevelReached()
-    {
 
-    }
 }

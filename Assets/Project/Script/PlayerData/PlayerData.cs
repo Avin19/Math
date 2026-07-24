@@ -43,6 +43,7 @@ public class PlayerData
     public bool TutorialCompleted;
     public long TotalPlayTimeSeconds;
     public string LastSaveUtc = "";
+    public int selectedLevel = 1;
 
 
     public void Normalize()

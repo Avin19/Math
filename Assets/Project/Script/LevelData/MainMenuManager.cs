@@ -48,6 +48,8 @@ public class MainMenuManager : MonoBehaviour
     private void PlayButtonClicked()
     {
         SetAllPanelFalse();
+        PlayerDataManager.Instance.data.selectedLevel = PlayerDataManager.Instance.data.CurrentLevel;
+
         SceneManager.LoadScene(2);
     }
 }

@@ -3,6 +3,7 @@ using TMPro;
 using UnityEngine.UI;
 using System;
 using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 
 public class ButtonController : MonoBehaviour
 {
@@ -11,26 +12,27 @@ public class ButtonController : MonoBehaviour
     [SerializeField] private TextMeshProUGUI levelNumber;
     [SerializeField] private Transform[] starTransfrom;
 
-
-
-
-
     [SerializeField] private LevelDataSO levelDataSO;
-    void OnEnable()
-    {
 
-    }
-
-
-
+    [SerializeField] private Button onButtonClicked;
 
     void Start()
     {
         ButtonSetup();
     }
+    void OnEnable()
+    {
+        onButtonClicked?.onClick.AddListener(() => LevelButtonClicked());
+    }
+
+    private void LevelButtonClicked()
+    {
+        PlayerDataManager.Instance.data.selectedLevel = levelDataSO.Level - 1;
+        SceneManager.LoadScene(2);
+    }
+
     private void ButtonSetup()
     {
-        unlocked.gameObject.SetActive(!levelDataSO.unlocked);
         levelNumber.text = levelDataSO.Level.ToString();
         starEarned = levelDataSO.starEarned;
         StarCalculation();
@@ -40,6 +42,10 @@ public class ButtonController : MonoBehaviour
         levelDataSO = _levelDataSO;
 
         ButtonSetup();
+    }
+    public void LevelUnlocked(bool status)
+    {
+        unlocked.gameObject.SetActive(status);
     }
     private void StarCalculation()
     {

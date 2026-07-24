@@ -2480,6 +2480,7 @@ GameObject:
   m_Component:
   - component: {fileID: 548044974}
   - component: {fileID: 548044975}
+  - component: {fileID: 548044976}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -2515,6 +2516,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AdMobManager
   config: {fileID: 11400000, guid: a2688f969f70900499829b730203cccc, type: 2}
+--- !u!114 &548044976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 548044973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e94816c35a9cbc94b938bbc4b1cae825, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerDataManager
+  data:
+    SaveVersion: 1
+    PlayerName: 
+    PlayerID: 
+    Coins: 0
+    Hints: 0
+    CurrentLevel: 1
+    HighestUnlockedLevel: 1
+    LevelStarsTotal: 0
+    playerLevelData: []
+    SoundEnabled: 1
+    MusicEnabled: 1
+    MusicVolume: 100
+    SFXVolume: 100
+    Haptic: 1
+    LastDailyRewardDate: 
+    DailyRewardStreak: 0
+    TutorialCompleted: 0
+    TotalPlayTimeSeconds: 0
+    LastSaveUtc: 
 --- !u!1 &566701606
 GameObject:
   m_ObjectHideFlags: 0
