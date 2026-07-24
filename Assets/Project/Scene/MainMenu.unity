@@ -2139,6 +2139,56 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 342733389}
   m_CullTransparentMesh: 1
+--- !u!1 &452183943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 452183945}
+  - component: {fileID: 452183944}
+  m_Layer: 0
+  m_Name: MainMenuController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &452183944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 452183943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72aec1c74f55394188180dd4aab62d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
+  playBtn: {fileID: 675024472}
+  levelBtn: {fileID: 1114991248}
+  settingBtn: {fileID: 514918567}
+  mainPanel: {fileID: 1861443246}
+  levelPanel: {fileID: 1065496567}
+  settingPanel: {fileID: 257720338}
+--- !u!4 &452183945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 452183943}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 530.81757, y: 1872.5059, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &461373042
 GameObject:
   m_ObjectHideFlags: 0
@@ -2430,7 +2480,6 @@ GameObject:
   m_Component:
   - component: {fileID: 548044974}
   - component: {fileID: 548044975}
-  - component: {fileID: 548044976}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -2466,24 +2515,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AdMobManager
   config: {fileID: 11400000, guid: a2688f969f70900499829b730203cccc, type: 2}
---- !u!114 &548044976
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 548044973}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f72aec1c74f55394188180dd4aab62d0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
-  playBtn: {fileID: 675024472}
-  levelBtn: {fileID: 1114991248}
-  settingBtn: {fileID: 514918567}
-  mainPanel: {fileID: 1861443246}
-  levelPanel: {fileID: 1065496567}
-  settingPanel: {fileID: 257720338}
 --- !u!1 &566701606
 GameObject:
   m_ObjectHideFlags: 0
@@ -7829,4 +7860,5 @@ SceneRoots:
   - {fileID: 1377012123}
   - {fileID: 1980618684}
   - {fileID: 1086908452}
+  - {fileID: 452183945}
   - {fileID: 548044974}

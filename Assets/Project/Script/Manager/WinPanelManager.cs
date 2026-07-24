@@ -40,7 +40,7 @@ public class WinPanelManager : MonoBehaviour
     }
     void Start()
     {
-        AdMobManager.Instance.ShowBanner();
+        // AdMobManager.Instance.ShowBanner();
     }
 
     void OnEnable()

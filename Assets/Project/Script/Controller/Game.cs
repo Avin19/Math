@@ -1,6 +1,7 @@
 using System;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Game : MonoBehaviour
@@ -10,6 +11,7 @@ public class Game : MonoBehaviour
     [SerializeField]
     private TextMeshProUGUI timerTxt;
     [SerializeField] private LevelDataSO leveldata;
+    [SerializeField] private LevelListData levelList;
     [SerializeField] private TextMeshProUGUI leveldisplayText;
 
     [SerializeField] private Button enterBtn;
@@ -23,8 +25,13 @@ public class Game : MonoBehaviour
     private string answer;
     private bool stoptimer = false;
     [SerializeField] private Transform winPanel;
+    private PlayerDataManager playerData;
 
-
+    void Start()
+    {
+        leveldata = levelList.levelDataSOs[playerData.data.CurrentLevel];
+        SetLevelData(leveldata);
+    }
 
     public void SetLevelData(LevelDataSO _levelData)
     {
@@ -62,7 +69,7 @@ public class Game : MonoBehaviour
 
     private void BackToMainMenu()
     {
-        LossCurrentLevel();
+        SceneManager.LoadScene(1);
     }
 
     private void ClearTHeINputBox()
