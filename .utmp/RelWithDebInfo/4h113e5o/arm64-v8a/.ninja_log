@@ -1,23 +1,23 @@
 # ninja log v5
-1	3049	8027084255401955	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6cce8406a354dce
-102	808	8027084233099579	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fdc391d1ab5e9539
-811	1135	8027084236068291	F:/Game Jam/Game Development/Math App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h113e5o/obj/arm64-v8a/libswappywrapper.so	ec1a087dfd8a2553
-34	2384	8027084248870045	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3413107ddbecc585
-44	2400	8027084249044625	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	953d3088665765f1
-71	2831	8027084253352843	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5e23950c711e4ef4
-24	2461	8027084249629044	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	14301d6f070d2f5f
-14	2549	8027084250521563	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1b05323be5e891ce
-86	2497	8027084250027430	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ff4d247e838976a9
-57	2879	8027084253863105	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d8b267657f51503b
-3049	3216	8027084257216401	F:/Game Jam/Game Development/Math App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h113e5o/obj/arm64-v8a/libgame.so	d501fb6ed0a65980
+5	26694	8027216390135159	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6cce8406a354dce
 144	1433	8027216137476465	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fdc391d1ab5e9539
 1433	2330	8027216146369274	F:/Game Jam/Game Development/Math App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h113e5o/obj/arm64-v8a/libswappywrapper.so	ec1a087dfd8a2553
 111	26260	8027216385853011	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3413107ddbecc585
 82	26282	8027216386014613	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	953d3088665765f1
 99	26312	8027216386265825	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	14301d6f070d2f5f
+135	27189	8027216395000719	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5e23950c711e4ef4
 120	26352	8027216386732843	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ff4d247e838976a9
 89	26393	8027216387116037	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1b05323be5e891ce
 128	26616	8027216389337077	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d8b267657f51503b
-5	26694	8027216390135159	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6cce8406a354dce
-135	27189	8027216395000719	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5e23950c711e4ef4
 27189	27311	8027216396405457	F:/Game Jam/Game Development/Math App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h113e5o/obj/arm64-v8a/libgame.so	d501fb6ed0a65980
+85	653	8066535543463933	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fdc391d1ab5e9539
+654	1035	8066535547133465	F:/Game Jam/Game Development/Math App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h113e5o/obj/arm64-v8a/libswappywrapper.so	ec1a087dfd8a2553
+48	2556	8066535562475311	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3413107ddbecc585
+23	2569	8066535562591479	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	953d3088665765f1
+16	2598	8066535562901318	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	14301d6f070d2f5f
+66	2620	8066535563106190	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ff4d247e838976a9
+5	2705	8066535563981406	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1b05323be5e891ce
+59	2953	8066535566482099	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d8b267657f51503b
+34	3091	8066535567836361	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6cce8406a354dce
+77	3261	8066535569554858	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5e23950c711e4ef4
+3261	3454	8066535571460187	F:/Game Jam/Game Development/Math App/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4h113e5o/obj/arm64-v8a/libgame.so	d501fb6ed0a65980
