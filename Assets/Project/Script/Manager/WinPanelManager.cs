@@ -61,7 +61,7 @@ public class WinPanelManager : MonoBehaviour
     {
         AdMobManager.Instance.ShowNativeAdvanced();
         gamePanel.gameObject.SetActive(true);
-        //gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 1]);
+        PlayerDataManager.Instance.data.selectedLevel++;
         gameObject.SetActive(false);
 
     }
@@ -70,7 +70,8 @@ public class WinPanelManager : MonoBehaviour
     {
         AdMobManager.Instance.TryShowInterstitial();
         gamePanel.gameObject.SetActive(true);
-        //gamePanel.GetComponent<Game>().SetLevelData(levelListData.levelDataSOs[PlayerDataManager.Instance.data.CurrentLevel - 2]);
+        PlayerDataManager.Instance.data.selectedLevel--;
+
         gameObject.SetActive(false);
     }
 

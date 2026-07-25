@@ -17,4 +17,9 @@ public class AudioManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public void PlayAudio(AudioClip clip)
+    {
+        audioSource.PlayOneShot(clip);
+    }
 }

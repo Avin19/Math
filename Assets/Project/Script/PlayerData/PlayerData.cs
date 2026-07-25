@@ -106,5 +106,12 @@ public class PlayerLevelData
 {
     public int level;
     public int startEarned;
+
+    public PlayerLevelData(int _level, int _star)
+    {
+        level = _level;
+        startEarned = _star;
+    }
+
 }
 

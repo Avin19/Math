@@ -25,12 +25,14 @@ public class Game : MonoBehaviour
     private string answer;
     private bool stoptimer = false;
     [SerializeField] private Transform winPanel;
+    [SerializeField] private Transform gamePanel;
     [SerializeField] private ParticleSystem particleSy;
 
     void Start()
     {
         leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
         SetLevelData(leveldata);
+        particleSy.Stop();
     }
 
     public void SetLevelData(LevelDataSO _levelData)
@@ -43,6 +45,9 @@ public class Game : MonoBehaviour
 
     void OnEnable()
     {
+        leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
+        SetLevelData(leveldata);
+        particleSy.Stop();
         answer = "";
         answerText.text = "";
         enterBtn?.onClick.AddListener(CheckAnswer);
@@ -140,7 +145,7 @@ public class Game : MonoBehaviour
         if (string.Equals(answer, leveldata.Answer))
         {
             //Correct Answer
-            PlayerDataManager.Instance.data.CurrentLevel++;
+            PlayerDataManager.Instance.data.selectedLevel++;
             PlayerDataManager.Instance.data.Coins += 100;
             WinCurrentLevel();
 
@@ -198,12 +203,20 @@ public class Game : MonoBehaviour
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), true);
+        PlayerLevelData playerData = new PlayerLevelData(PlayerDataManager.Instance.data.selectedLevel, leveldata.starEarned);
+
+
+        gamePanel.gameObject.SetActive(false);
+        PlayerDataManager.Instance.data.playerLevelData.Add(playerData);
+
     }
     private void LossCurrentLevel()
     {
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), false);
+        gamePanel.gameObject.SetActive(false);
+
     }
 
 }

@@ -32,8 +32,15 @@ public class ButtonController : MonoBehaviour
     private void ButtonSetup()
     {
         levelNumber.text = levelDataSO.Level.ToString();
-        starEarned = levelDataSO.starEarned;
+
         StarCalculation();
+    }
+
+    public void StarEarned(int _starEarned)
+    {
+        starEarned = _starEarned;
+        ButtonSetup();
+
     }
     public void SetLevelDataSO(LevelDataSO _levelDataSO)
     {

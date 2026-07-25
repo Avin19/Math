@@ -21,6 +21,14 @@ public class LevelDataManager : MonoBehaviour
             if (levelListData.levelDataSOs.IndexOf(level) < PlayerDataManager.Instance.data.CurrentLevel)
             {
                 created.GetComponent<ButtonController>().LevelUnlocked(false);
+                foreach (PlayerLevelData pl in PlayerDataManager.Instance.data.playerLevelData)
+                {
+                    if (levelListData.levelDataSOs.IndexOf(level) == pl.level - 1)
+                    {
+                        created.GetComponent<ButtonController>().StarEarned(pl.startEarned);
+                    }
+
+                }
             }
             else
             {

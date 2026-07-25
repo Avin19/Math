@@ -12107,6 +12107,7 @@ MonoBehaviour:
   backBtn: {fileID: 1641118465}
   slider: {fileID: 114239085}
   winPanel: {fileID: 1220262445}
+  gamePanel: {fileID: 1907921965}
   particleSy: {fileID: 1169646869}
 --- !u!4 &1751778500
 Transform:
