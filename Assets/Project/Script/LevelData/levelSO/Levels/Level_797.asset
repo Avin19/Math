@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 797
   Question: "(57 + 60) \xD7 5 = ?"
   Answer: 585
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

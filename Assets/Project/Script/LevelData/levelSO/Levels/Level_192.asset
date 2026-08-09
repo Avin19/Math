@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 192
   Question: "(57 + 33) \xD7 4 = ?"
   Answer: 360
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

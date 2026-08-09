@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 26
   Question: What is the area of a square with side 18?
   Answer: 324
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 401
   Question: "(24 + 21) \xD7 3 = ?"
   Answer: 135
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

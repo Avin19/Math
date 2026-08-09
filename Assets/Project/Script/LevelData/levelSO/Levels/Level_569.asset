@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 569
   Question: "(67 + 83) \xD7 4 = ?"
   Answer: 600
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

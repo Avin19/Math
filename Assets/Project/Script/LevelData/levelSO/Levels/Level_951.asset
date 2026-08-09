@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 951
   Question: "(96 + 18) \xD7 4 = ?"
   Answer: 456
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

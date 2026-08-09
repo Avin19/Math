@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 459
   Question: "(74 + 54) \xD7 6 = ?"
   Answer: 768
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

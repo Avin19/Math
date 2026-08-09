@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 768
   Question: What is the area of a square with side 3?
   Answer: 9
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

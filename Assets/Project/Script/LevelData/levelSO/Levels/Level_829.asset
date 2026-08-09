@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 829
   Question: "(84 + 53) \xD7 9 = ?"
   Answer: 1233
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

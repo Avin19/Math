@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 574
   Question: "(38 + 69) \xD7 9 = ?"
   Answer: 963
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

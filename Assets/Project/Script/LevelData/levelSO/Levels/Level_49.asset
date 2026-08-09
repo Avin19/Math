@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 49
   Question: "(88 + 53) \xD7 5 = ?"
   Answer: 705
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

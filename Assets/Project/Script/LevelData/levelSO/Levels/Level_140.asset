@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 140
   Question: "(19 + 40) \xD7 4 = ?"
   Answer: 236
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

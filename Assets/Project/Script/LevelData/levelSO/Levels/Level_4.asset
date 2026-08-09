@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 4
   Question: "(86 + 57) \xD7 5 = ?"
   Answer: 715
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

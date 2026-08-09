@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 431
   Question: If A = 13, B = 26, C = 52, then D = ?
   Answer: 104
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

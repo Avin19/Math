@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 827
   Question: "(13 + 42) \xD7 4 = ?"
   Answer: 220
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

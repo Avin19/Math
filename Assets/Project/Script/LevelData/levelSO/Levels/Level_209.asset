@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 209
   Question: "(31 + 66) \xD7 6 = ?"
   Answer: 582
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 190
   Question: What is the area of a square with side 9?
   Answer: 81
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 581
   Question: What is the area of a square with side 20?
   Answer: 400
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

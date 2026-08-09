@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 937
   Question: If A = 19, B = 38, C = 76, then D = ?
   Answer: 152
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

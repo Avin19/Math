@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 758
   Question: "(98 + 21) \xD7 8 = ?"
   Answer: 952
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

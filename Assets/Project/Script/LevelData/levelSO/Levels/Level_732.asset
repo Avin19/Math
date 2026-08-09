@@ -19,6 +19,6 @@ MonoBehaviour:
 
     6, 24, 96, 384, 1536, ?'
   Answer: 6144
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

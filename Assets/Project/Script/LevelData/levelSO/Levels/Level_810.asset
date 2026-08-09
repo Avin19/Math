@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 810
   Question: "(23 + 50) \xD7 3 = ?"
   Answer: 219
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

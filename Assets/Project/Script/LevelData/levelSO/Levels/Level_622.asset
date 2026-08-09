@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 622
   Question: "(31 + 33) \xD7 2 = ?"
   Answer: 128
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

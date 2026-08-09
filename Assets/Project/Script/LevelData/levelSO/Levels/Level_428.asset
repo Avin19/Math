@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 428
   Question: "(98 + 23) \xD7 9 = ?"
   Answer: 1089
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

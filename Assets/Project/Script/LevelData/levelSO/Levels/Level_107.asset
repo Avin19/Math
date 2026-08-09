@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 107
   Question: "(78 + 24) \xD7 2 = ?"
   Answer: 204
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

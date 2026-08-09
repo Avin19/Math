@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 283
   Question: If A = 12, B = 24, C = 48, then D = ?
   Answer: 96
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

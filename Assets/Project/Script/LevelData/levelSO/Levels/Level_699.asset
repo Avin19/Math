@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 699
   Question: "(90 + 22) \xD7 8 = ?"
   Answer: 896
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 476
   Question: "(99 + 75) \xD7 2 = ?"
   Answer: 348
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

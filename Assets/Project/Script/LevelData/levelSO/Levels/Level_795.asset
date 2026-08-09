@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 795
   Question: "(93 + 55) \xD7 6 = ?"
   Answer: 888
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

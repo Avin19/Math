@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 419
   Question: "(40 + 14) \xD7 4 = ?"
   Answer: 216
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

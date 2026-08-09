@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 841
   Question: "(85 + 68) \xD7 4 = ?"
   Answer: 612
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

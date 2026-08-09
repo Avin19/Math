@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 662
   Question: "(65 + 40) \xD7 6 = ?"
   Answer: 630
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

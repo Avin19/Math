@@ -19,6 +19,6 @@ MonoBehaviour:
 
     3, 15, 75, 375, 1875, ?'
   Answer: 9375
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

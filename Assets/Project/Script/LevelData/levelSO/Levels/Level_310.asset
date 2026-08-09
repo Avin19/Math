@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 310
   Question: "(23 + 46) \xD7 2 = ?"
   Answer: 138
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

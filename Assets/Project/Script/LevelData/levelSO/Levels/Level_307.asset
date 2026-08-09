@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 307
   Question: "(31 + 25) \xD7 2 = ?"
   Answer: 112
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

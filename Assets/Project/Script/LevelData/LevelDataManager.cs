@@ -13,6 +13,7 @@ public class LevelDataManager : MonoBehaviour
 
     void Start()
     {
+        ClearTheLevelItem();
         foreach (LevelDataSO level in levelListData.levelDataSOs)
         {
             Transform created = Instantiate(levelButtonpf, levelHolder);
@@ -34,6 +35,40 @@ public class LevelDataManager : MonoBehaviour
             {
                 created.GetComponent<ButtonController>().LevelUnlocked(true);
             }
+        }
+    }
+    void OnEnable()
+    {
+        ClearTheLevelItem();
+        foreach (LevelDataSO level in levelListData.levelDataSOs)
+        {
+            Transform created = Instantiate(levelButtonpf, levelHolder);
+            created.GetComponent<ButtonController>().SetLevelDataSO(level);
+
+            if (levelListData.levelDataSOs.IndexOf(level) < PlayerDataManager.Instance.data.CurrentLevel)
+            {
+                created.GetComponent<ButtonController>().LevelUnlocked(false);
+                foreach (PlayerLevelData pl in PlayerDataManager.Instance.data.playerLevelData)
+                {
+                    if (levelListData.levelDataSOs.IndexOf(level) == pl.level - 1)
+                    {
+                        created.GetComponent<ButtonController>().StarEarned(pl.startEarned);
+                    }
+
+                }
+            }
+            else
+            {
+                created.GetComponent<ButtonController>().LevelUnlocked(true);
+            }
+        }
+    }
+    private void ClearTheLevelItem()
+    {
+        if (levelHolder.childCount == 0) return;
+        for (int i = 0; i < levelHolder.childCount; i++)
+        {
+            Destroy(levelHolder.GetChild(i));
         }
     }
 

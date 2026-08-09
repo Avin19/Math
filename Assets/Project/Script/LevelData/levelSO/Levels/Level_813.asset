@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 813
   Question: "(42 + 87) \xD7 6 = ?"
   Answer: 774
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

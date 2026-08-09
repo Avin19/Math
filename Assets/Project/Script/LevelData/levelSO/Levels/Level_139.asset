@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 139
   Question: "(38 + 22) \xD7 4 = ?"
   Answer: 240
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

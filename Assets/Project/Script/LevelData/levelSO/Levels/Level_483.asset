@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 483
   Question: "(59 + 51) \xD7 8 = ?"
   Answer: 880
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

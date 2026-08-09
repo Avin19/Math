@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 203
   Question: What is the area of a square with side 10?
   Answer: 100
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

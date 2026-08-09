@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 474
   Question: "(27 + 28) \xD7 3 = ?"
   Answer: 165
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

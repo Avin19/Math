@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 268
   Question: "(82 + 64) \xD7 8 = ?"
   Answer: 1168
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

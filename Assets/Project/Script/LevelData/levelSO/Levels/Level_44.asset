@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 44
   Question: "(63 + 47) \xD7 4 = ?"
   Answer: 440
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

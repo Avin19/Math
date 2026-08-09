@@ -31,11 +31,17 @@ public class WinPanelManager : MonoBehaviour
         {
             banner.sprite = winBanner;
             coinTxt.text = "Reward \n +" + _cointext;
+            nextlevelBtn.gameObject.SetActive(true);
+            homebtn.gameObject.SetActive(true);
+            retrybtn.gameObject.SetActive(true);
         }
         else
         {
             banner.sprite = lossBanner;
             coinTxt.text = "Reward \n -" + _cointext;
+            nextlevelBtn.gameObject.SetActive(false);
+            homebtn.gameObject.SetActive(true);
+            retrybtn.gameObject.SetActive(true);
         }
     }
     void Start()

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 9
   Question: A basket has 9 apples. Half are removed. How many remain?
   Answer: 4
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -19,6 +19,6 @@ MonoBehaviour:
 
     3, 9, 27, 81, 243, ?'
   Answer: 729
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

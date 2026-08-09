@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 71
   Question: "(51 + 66) \xD7 6 = ?"
   Answer: 702
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

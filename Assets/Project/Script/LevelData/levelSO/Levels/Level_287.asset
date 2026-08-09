@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 287
   Question: If A = 4, B = 8, C = 16, then D = ?
   Answer: 32
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

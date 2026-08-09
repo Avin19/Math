@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 767
   Question: "(15 + 18) \xD7 2 = ?"
   Answer: 66
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

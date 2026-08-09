@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 881
   Question: If A = 17, B = 34, C = 68, then D = ?
   Answer: 136
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

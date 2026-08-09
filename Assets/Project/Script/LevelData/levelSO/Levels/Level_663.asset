@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 663
   Question: "(32 + 67) \xD7 5 = ?"
   Answer: 495
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

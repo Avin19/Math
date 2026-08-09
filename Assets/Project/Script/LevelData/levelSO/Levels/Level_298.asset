@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 298
   Question: What is the area of a square with side 7?
   Answer: 49
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 12
   Question: "(21 + 77) \xD7 3 = ?"
   Answer: 294
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 499
   Question: "(40 + 54) \xD7 6 = ?"
   Answer: 564
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

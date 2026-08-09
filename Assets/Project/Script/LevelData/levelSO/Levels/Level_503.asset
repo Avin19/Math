@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 503
   Question: "(88 + 53) \xD7 4 = ?"
   Answer: 564
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

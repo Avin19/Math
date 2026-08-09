@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 242
   Question: "(20 + 69) \xD7 5 = ?"
   Answer: 445
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

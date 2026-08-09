@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 478
   Question: "(35 + 63) \xD7 4 = ?"
   Answer: 392
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

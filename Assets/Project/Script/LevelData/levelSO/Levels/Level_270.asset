@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 270
   Question: "(45 + 69) \xD7 8 = ?"
   Answer: 912
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

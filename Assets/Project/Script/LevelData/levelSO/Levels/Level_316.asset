@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 316
   Question: "(89 + 99) \xD7 3 = ?"
   Answer: 564
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

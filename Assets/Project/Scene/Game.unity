@@ -11530,19 +11530,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1641118466}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1751778499}
-        m_TargetAssemblyTypeName: Game, Assembly-CSharp
-        m_MethodName: BackToMainMenu
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1641118466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12079,7 +12067,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1751778498}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1991f3a6201a0b446b7e0e317e7a6e62, type: 3}
   m_Name: 
@@ -12482,6 +12470,7 @@ GameObject:
   - component: {fileID: 1907921965}
   - component: {fileID: 1907921968}
   - component: {fileID: 1907921967}
+  - component: {fileID: 1907921969}
   m_Layer: 5
   m_Name: Game
   m_TagString: Untagged
@@ -12550,6 +12539,43 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1907921964}
   m_CullTransparentMesh: 1
+--- !u!114 &1907921969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907921964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1991f3a6201a0b446b7e0e317e7a6e62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Game
+  questionText: {fileID: 1219537785}
+  answerText: {fileID: 590267116}
+  timerTxt: {fileID: 1465165522}
+  leveldata: {fileID: 11400000, guid: 5437bbf2ef8110c42b9a8a7d305a1773, type: 2}
+  levelList: {fileID: 11400000, guid: 72ebe778868d7b94499825888e51b4df, type: 2}
+  leveldisplayText: {fileID: 350420992}
+  enterBtn: {fileID: 1598171394}
+  numberBtns:
+  - {fileID: 2085489639}
+  - {fileID: 889176393}
+  - {fileID: 3678099}
+  - {fileID: 1231006563}
+  - {fileID: 861333349}
+  - {fileID: 731641597}
+  - {fileID: 1352116705}
+  - {fileID: 734966417}
+  - {fileID: 1455421975}
+  - {fileID: 965355038}
+  dotBtns: {fileID: 1662788646}
+  clearBtn: {fileID: 623117255}
+  backBtn: {fileID: 1641118465}
+  slider: {fileID: 114239085}
+  winPanel: {fileID: 1220262445}
+  gamePanel: {fileID: 1907921965}
+  particleSy: {fileID: 1169646869}
 --- !u!1 &1925588594
 GameObject:
   m_ObjectHideFlags: 0

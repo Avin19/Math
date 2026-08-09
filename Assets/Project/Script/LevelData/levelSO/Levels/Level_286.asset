@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 286
   Question: "(62 + 32) \xD7 2 = ?"
   Answer: 188
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

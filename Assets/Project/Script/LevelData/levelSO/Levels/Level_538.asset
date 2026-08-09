@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 538
   Question: If A = 2, B = 4, C = 8, then D = ?
   Answer: 16
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 278
   Question: "(55 + 13) \xD7 2 = ?"
   Answer: 136
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

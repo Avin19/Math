@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 640
   Question: "(58 + 89) \xD7 2 = ?"
   Answer: 294
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

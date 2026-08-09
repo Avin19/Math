@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 120
   Question: If A = 9, B = 18, C = 36, then D = ?
   Answer: 72
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

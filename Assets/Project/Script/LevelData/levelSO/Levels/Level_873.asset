@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 873
   Question: If A = 15, B = 30, C = 60, then D = ?
   Answer: 120
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

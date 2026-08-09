@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 495
   Question: How many squares are in a 3x3 grid?
   Answer: 14
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 279
   Question: "(44 + 45) \xD7 6 = ?"
   Answer: 534
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

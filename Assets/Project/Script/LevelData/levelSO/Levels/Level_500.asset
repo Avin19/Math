@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 500
   Question: "(35 + 65) \xD7 9 = ?"
   Answer: 900
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

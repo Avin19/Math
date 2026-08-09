@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 417
   Question: "(81 + 59) \xD7 7 = ?"
   Answer: 980
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

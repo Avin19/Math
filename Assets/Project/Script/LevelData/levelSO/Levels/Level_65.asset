@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 65
   Question: "(26 + 22) \xD7 8 = ?"
   Answer: 384
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

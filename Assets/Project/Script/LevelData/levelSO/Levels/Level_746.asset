@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 746
   Question: "(77 + 60) \xD7 2 = ?"
   Answer: 274
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

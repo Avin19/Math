@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 560
   Question: If A = 11, B = 22, C = 44, then D = ?
   Answer: 88
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

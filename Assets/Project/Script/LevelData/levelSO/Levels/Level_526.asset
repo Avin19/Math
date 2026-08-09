@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 526
   Question: If A = 7, B = 14, C = 28, then D = ?
   Answer: 56
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

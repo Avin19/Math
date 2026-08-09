@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 86
   Question: How many squares are in a 2x2 grid?
   Answer: 5
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

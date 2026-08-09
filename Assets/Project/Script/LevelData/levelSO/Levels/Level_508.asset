@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 508
   Question: "(13 + 24) \xD7 3 = ?"
   Answer: 111
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

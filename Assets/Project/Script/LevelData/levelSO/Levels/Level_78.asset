@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 78
   Question: "(35 + 33) \xD7 4 = ?"
   Answer: 272
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

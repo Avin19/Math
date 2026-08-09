@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 384
   Question: "(40 + 60) \xD7 5 = ?"
   Answer: 500
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 300
   Question: If A = 14, B = 28, C = 56, then D = ?
   Answer: 112
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 249
   Question: "(76 + 95) \xD7 6 = ?"
   Answer: 1026
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

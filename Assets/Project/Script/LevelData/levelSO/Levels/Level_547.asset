@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 547
   Question: "(71 + 19) \xD7 2 = ?"
   Answer: 180
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

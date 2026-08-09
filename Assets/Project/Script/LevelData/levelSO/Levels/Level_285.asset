@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 285
   Question: What is the area of a square with side 8?
   Answer: 64
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

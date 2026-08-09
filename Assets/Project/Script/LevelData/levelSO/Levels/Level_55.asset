@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 55
   Question: "(99 + 73) \xD7 4 = ?"
   Answer: 688
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

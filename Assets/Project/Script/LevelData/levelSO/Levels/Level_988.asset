@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 988
   Question: "(85 + 48) \xD7 3 = ?"
   Answer: 399
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

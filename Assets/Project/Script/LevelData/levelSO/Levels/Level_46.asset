@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 46
   Question: "(16 + 25) \xD7 3 = ?"
   Answer: 123
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

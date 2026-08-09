@@ -33,6 +33,7 @@ public class Game : MonoBehaviour
         leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
         SetLevelData(leveldata);
         particleSy.Stop();
+        particleSy.gameObject.SetActive(false);
     }
 
     public void SetLevelData(LevelDataSO _levelData)
@@ -48,6 +49,7 @@ public class Game : MonoBehaviour
         leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
         SetLevelData(leveldata);
         particleSy.Stop();
+        particleSy.gameObject.SetActive(false);
         answer = "";
         answerText.text = "";
         enterBtn?.onClick.AddListener(CheckAnswer);
@@ -64,7 +66,7 @@ public class Game : MonoBehaviour
         numberBtns[9]?.onClick.AddListener(() => AnswerButtonPressed(0));
         dotBtns?.onClick.AddListener(() => DotButtonClick());
         clearBtn?.onClick.AddListener(() => ClearBtnClick());
-        backBtn?.onClick.AddListener(() => BackToMainMenu());
+        backBtn?.onClick.AddListener(() => LossCurrentLevel());
 
         ClearTHeINputBox();
 
@@ -146,6 +148,7 @@ public class Game : MonoBehaviour
         {
             //Correct Answer
             PlayerDataManager.Instance.data.selectedLevel++;
+            PlayerDataManager.Instance.data.CurrentLevel = PlayerDataManager.Instance.data.selectedLevel;
             PlayerDataManager.Instance.data.Coins += 100;
             WinCurrentLevel();
 
@@ -199,6 +202,7 @@ public class Game : MonoBehaviour
     {
         particleSy.gameObject.SetActive(true);
         particleSy.Play();
+        timer = PlayerDataManager.Instance.data.TotalPlayTimeSeconds;
 
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
@@ -214,6 +218,8 @@ public class Game : MonoBehaviour
     {
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
+        timer = PlayerDataManager.Instance.data.TotalPlayTimeSeconds;
+
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), false);
         gamePanel.gameObject.SetActive(false);
 

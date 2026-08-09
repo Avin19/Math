@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 914
   Question: "(76 + 47) \xD7 8 = ?"
   Answer: 984
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

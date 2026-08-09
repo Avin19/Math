@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 908
   Question: "(95 + 85) \xD7 3 = ?"
   Answer: 540
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

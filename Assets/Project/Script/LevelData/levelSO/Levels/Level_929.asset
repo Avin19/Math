@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 929
   Question: If A = 20, B = 40, C = 80, then D = ?
   Answer: 160
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

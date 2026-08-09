@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 373
   Question: "(40 + 77) \xD7 4 = ?"
   Answer: 468
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

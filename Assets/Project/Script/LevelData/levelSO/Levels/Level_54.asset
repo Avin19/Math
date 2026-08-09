@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 54
   Question: If A = 8, B = 16, C = 32, then D = ?
   Answer: 64
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 701
   Question: "(11 + 22) \xD7 3 = ?"
   Answer: 99
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

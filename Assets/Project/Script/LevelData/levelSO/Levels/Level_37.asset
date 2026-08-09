@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 37
   Question: "(66 + 98) \xD7 7 = ?"
   Answer: 1148
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

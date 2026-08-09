@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 583
   Question: "(73 + 77) \xD7 5 = ?"
   Answer: 750
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

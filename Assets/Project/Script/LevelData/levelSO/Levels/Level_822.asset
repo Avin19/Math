@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 822
   Question: If A = 18, B = 36, C = 72, then D = ?
   Answer: 144
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

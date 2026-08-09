@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 628
   Question: "(32 + 29) \xD7 2 = ?"
   Answer: 122
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

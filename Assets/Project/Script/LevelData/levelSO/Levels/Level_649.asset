@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 649
   Question: "(13 + 62) \xD7 5 = ?"
   Answer: 375
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

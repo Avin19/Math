@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 709
   Question: How many squares are in a 4x4 grid?
   Answer: 30
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

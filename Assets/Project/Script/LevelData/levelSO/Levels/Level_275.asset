@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 275
   Question: "(57 + 18) \xD7 6 = ?"
   Answer: 450
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

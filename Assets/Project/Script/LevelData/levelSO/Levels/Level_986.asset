@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 986
   Question: "(74 + 49) \xD7 3 = ?"
   Answer: 369
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

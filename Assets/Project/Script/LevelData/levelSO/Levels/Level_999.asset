@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 999
   Question: "(85 + 19) \xD7 8 = ?"
   Answer: 832
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

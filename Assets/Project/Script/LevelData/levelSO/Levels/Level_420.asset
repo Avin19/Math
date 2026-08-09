@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 420
   Question: "(47 + 67) \xD7 2 = ?"
   Answer: 228
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

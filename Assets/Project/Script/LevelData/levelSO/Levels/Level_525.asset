@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 525
   Question: "(47 + 12) \xD7 7 = ?"
   Answer: 413
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

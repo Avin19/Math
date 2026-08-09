@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 734
   Question: What is the area of a square with side 6?
   Answer: 36
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

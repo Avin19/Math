@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 623
   Question: "(25 + 68) \xD7 7 = ?"
   Answer: 651
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

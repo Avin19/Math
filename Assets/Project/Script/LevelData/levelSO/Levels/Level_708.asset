@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 708
   Question: "(23 + 72) \xD7 3 = ?"
   Answer: 285
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

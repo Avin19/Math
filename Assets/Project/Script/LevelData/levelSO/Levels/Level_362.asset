@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 362
   Question: If A = 5, B = 10, C = 20, then D = ?
   Answer: 40
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

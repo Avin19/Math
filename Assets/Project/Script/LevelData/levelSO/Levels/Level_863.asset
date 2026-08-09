@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 863
   Question: "(55 + 96) \xD7 9 = ?"
   Answer: 1359
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

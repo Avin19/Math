@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 690
   Question: "(54 + 84) \xD7 4 = ?"
   Answer: 552
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

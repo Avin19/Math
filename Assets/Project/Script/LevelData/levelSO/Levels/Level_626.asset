@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 626
   Question: "(89 + 57) \xD7 5 = ?"
   Answer: 730
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

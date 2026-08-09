@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 802
   Question: "(90 + 18) \xD7 4 = ?"
   Answer: 432
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

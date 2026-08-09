@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 72
   Question: How many squares are in a 5x5 grid?
   Answer: 55
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

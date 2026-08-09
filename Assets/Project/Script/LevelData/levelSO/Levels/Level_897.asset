@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 897
   Question: "(92 + 79) \xD7 4 = ?"
   Answer: 684
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

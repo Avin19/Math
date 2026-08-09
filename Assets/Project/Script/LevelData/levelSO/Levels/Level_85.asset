@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 85
   Question: "(42 + 37) \xD7 4 = ?"
   Answer: 316
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

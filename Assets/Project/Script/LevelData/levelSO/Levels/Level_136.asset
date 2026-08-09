@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 136
   Question: "(91 + 96) \xD7 7 = ?"
   Answer: 1309
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

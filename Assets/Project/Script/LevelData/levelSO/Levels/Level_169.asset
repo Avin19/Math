@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 169
   Question: "(42 + 58) \xD7 3 = ?"
   Answer: 300
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

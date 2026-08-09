@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 980
   Question: "(43 + 71) \xD7 3 = ?"
   Answer: 342
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

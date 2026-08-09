@@ -19,6 +19,6 @@ MonoBehaviour:
 
     4, 16, 64, 256, 1024, ?'
   Answer: 4096
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

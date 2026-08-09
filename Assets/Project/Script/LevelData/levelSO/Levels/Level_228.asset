@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 228
   Question: "(25 + 21) \xD7 4 = ?"
   Answer: 184
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

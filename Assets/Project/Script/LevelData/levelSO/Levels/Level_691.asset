@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 691
   Question: "(93 + 87) \xD7 4 = ?"
   Answer: 720
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

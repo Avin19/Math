@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 272
   Question: "(54 + 76) \xD7 5 = ?"
   Answer: 650
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

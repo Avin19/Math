@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 861
   Question: "(88 + 11) \xD7 3 = ?"
   Answer: 297
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

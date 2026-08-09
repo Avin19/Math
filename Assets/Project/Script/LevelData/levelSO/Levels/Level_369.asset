@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 369
   Question: What is the area of a square with side 5?
   Answer: 25
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

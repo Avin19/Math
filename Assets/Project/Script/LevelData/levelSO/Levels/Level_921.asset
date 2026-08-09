@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 921
   Question: "(83 + 62) \xD7 6 = ?"
   Answer: 870
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

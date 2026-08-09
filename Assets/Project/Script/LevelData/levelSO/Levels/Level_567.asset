@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 567
   Question: "(94 + 57) \xD7 4 = ?"
   Answer: 604
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

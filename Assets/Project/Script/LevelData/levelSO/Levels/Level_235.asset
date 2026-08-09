@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 235
   Question: "(40 + 47) \xD7 3 = ?"
   Answer: 261
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

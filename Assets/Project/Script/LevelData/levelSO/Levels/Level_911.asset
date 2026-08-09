@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 911
   Question: "(71 + 32) \xD7 3 = ?"
   Answer: 309
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0

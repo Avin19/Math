@@ -17,6 +17,6 @@ MonoBehaviour:
   Level: 405
   Question: "(51 + 18) \xD7 2 = ?"
   Answer: 138
-  timelimit: 200
+  timelimit: 20
   Category: 0
   difficulty: 0
