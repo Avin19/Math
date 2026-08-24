@@ -11,6 +11,8 @@ public class MainMenuManager : MonoBehaviour
     [SerializeField] private RectTransform mainPanel;
     [SerializeField] private RectTransform levelPanel;
     [SerializeField] private RectTransform settingPanel;
+    [Header("Animation")]
+    [SerializeField] private SettingsPanelAnimation settingsPanelAnimation;
 
     void OnEnable()
     {
@@ -36,6 +38,7 @@ public class MainMenuManager : MonoBehaviour
     {
         SetAllPanelFalse();
         settingPanel.gameObject.SetActive(true);
+        settingsPanelAnimation.Open();
     }
 
     private void LevelPanelOpen()
