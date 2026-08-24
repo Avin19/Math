@@ -46,7 +46,7 @@ public class WinPanelManager : MonoBehaviour
     }
     void Start()
     {
-        // AdMobManager.Instance.ShowBanner();
+        AdMobManager.Instance.ShowBanner();
     }
 
     void OnEnable()
@@ -65,7 +65,7 @@ public class WinPanelManager : MonoBehaviour
 
     private void NextlevelBtnClicked()
     {
-        AdMobManager.Instance.ShowNativeAdvanced();
+        AdMobManager.Instance.ShowRewardedInterstitial(() => PlayerDataManager.Instance.data.Coins += 0);
         gamePanel.gameObject.SetActive(true);
         PlayerDataManager.Instance.data.selectedLevel++;
         gameObject.SetActive(false);
@@ -74,7 +74,7 @@ public class WinPanelManager : MonoBehaviour
 
     private void RetryButtonClicked()
     {
-        AdMobManager.Instance.TryShowInterstitial();
+        AdMobManager.Instance.ShowRewardedInterstitial(() => PlayerDataManager.Instance.data.Coins += 0);
         gamePanel.gameObject.SetActive(true);
         PlayerDataManager.Instance.data.selectedLevel--;
 

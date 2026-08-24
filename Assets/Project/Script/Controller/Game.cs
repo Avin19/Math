@@ -27,9 +27,11 @@ public class Game : MonoBehaviour
     [SerializeField] private Transform winPanel;
     [SerializeField] private Transform gamePanel;
     [SerializeField] private ParticleSystem particleSy;
+    [SerializeField] private AudioClip Clickclip;
 
     void Start()
     {
+
         leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
         SetLevelData(leveldata);
         particleSy.Stop();
@@ -46,6 +48,7 @@ public class Game : MonoBehaviour
 
     void OnEnable()
     {
+        AdMobManager.Instance.ShowBanner();
         leveldata = levelList.levelDataSOs[PlayerDataManager.Instance.data.selectedLevel];
         SetLevelData(leveldata);
         particleSy.Stop();
@@ -118,6 +121,7 @@ public class Game : MonoBehaviour
     }
     private void AnswerButtonPressed(int l)
     {
+        AudioManager.Instance.PlayAudio(Clickclip);
         answer = answer + l.ToString();
         answerText.text = answer;
 
@@ -208,8 +212,6 @@ public class Game : MonoBehaviour
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), true);
         PlayerLevelData playerData = new PlayerLevelData(PlayerDataManager.Instance.data.selectedLevel, leveldata.starEarned);
-
-
         gamePanel.gameObject.SetActive(false);
         PlayerDataManager.Instance.data.playerLevelData.Add(playerData);
 
@@ -219,7 +221,6 @@ public class Game : MonoBehaviour
         winPanel.gameObject.SetActive(true);
         TimeSpan timeString = TimeSpan.FromSeconds(timepasssed);
         timer = PlayerDataManager.Instance.data.TotalPlayTimeSeconds;
-
         winPanel.gameObject.GetComponent<WinPanelManager>().Init(100.ToString(), timeString.ToString(@"m\:ss"), leveldata.starEarned.ToString(), false);
         gamePanel.gameObject.SetActive(false);
 

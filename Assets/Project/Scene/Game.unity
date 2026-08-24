@@ -1737,7 +1737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.23529413, g: 0.027450982, b: 0.5176471, a: 1}
+  m_Color: {r: 0.16226411, g: 0.15644708, b: 0.15644708, a: 0.9490196}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -9732,8 +9732,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 96}
-  m_SizeDelta: {x: 0, y: -201.712}
+  m_AnchoredPosition: {x: 0, y: -2.4281006}
+  m_SizeDelta: {x: 0, y: -4.856}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1220262446
 MonoBehaviour:
@@ -9771,7 +9771,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4593896, g: 0.06354573, b: 0.6603774, a: 0}
+  m_Color: {r: 0.16226411, g: 0.15644708, b: 0.15644708, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -10120,7 +10120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.33726186, g: 0.027191062, b: 0.7584905, a: 1}
+  m_Color: {r: 0.24528301, g: 0.24528301, b: 0.24528301, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -11863,8 +11863,8 @@ Camera:
   m_GameObject: {fileID: 1698218137}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.23529413, g: 0.027450982, b: 0.5176471, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -12052,51 +12052,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1751778500}
-  - component: {fileID: 1751778499}
+  - component: {fileID: 1751778501}
   m_Layer: 0
-  m_Name: GameManager
+  m_Name: AdManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1751778499
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1751778498}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1991f3a6201a0b446b7e0e317e7a6e62, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Game
-  questionText: {fileID: 1219537785}
-  answerText: {fileID: 590267116}
-  timerTxt: {fileID: 1465165522}
-  leveldata: {fileID: 11400000, guid: 5437bbf2ef8110c42b9a8a7d305a1773, type: 2}
-  levelList: {fileID: 11400000, guid: 72ebe778868d7b94499825888e51b4df, type: 2}
-  leveldisplayText: {fileID: 350420992}
-  enterBtn: {fileID: 1598171394}
-  numberBtns:
-  - {fileID: 2085489639}
-  - {fileID: 889176393}
-  - {fileID: 3678099}
-  - {fileID: 1231006563}
-  - {fileID: 861333349}
-  - {fileID: 731641597}
-  - {fileID: 1352116705}
-  - {fileID: 734966417}
-  - {fileID: 1455421975}
-  - {fileID: 965355038}
-  dotBtns: {fileID: 1662788646}
-  clearBtn: {fileID: 623117255}
-  backBtn: {fileID: 1641118465}
-  slider: {fileID: 114239085}
-  winPanel: {fileID: 1220262445}
-  gamePanel: {fileID: 1907921965}
-  particleSy: {fileID: 1169646869}
 --- !u!4 &1751778500
 Transform:
   m_ObjectHideFlags: 0
@@ -12112,6 +12075,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1751778501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1751778498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6030d56ed641764eaacf05a0d41afca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AdMobManager
+  config: {fileID: 11400000, guid: a2688f969f70900499829b730203cccc, type: 2}
 --- !u!1 &1761037264
 GameObject:
   m_ObjectHideFlags: 0
@@ -12498,8 +12474,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0.0010375977}
+  m_SizeDelta: {x: 0, y: -0.0020752}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1907921967
 MonoBehaviour:
@@ -12514,7 +12490,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.1764706, g: 0.015686275, b: 0.427451, a: 1}
+  m_Color: {r: 0.2941177, g: 0, b: 0.509804, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -12576,6 +12552,7 @@ MonoBehaviour:
   winPanel: {fileID: 1220262445}
   gamePanel: {fileID: 1907921965}
   particleSy: {fileID: 1169646869}
+  Clickclip: {fileID: 8300000, guid: 2d8e0ca3ffbf0e64d8a726be18281273, type: 3}
 --- !u!1 &1925588594
 GameObject:
   m_ObjectHideFlags: 0
